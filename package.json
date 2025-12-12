@@ -1,0 +1,24 @@
+{
+  "name": "densford.net",
+  "version": "1.0.0",
+  "description": "Home of the Densford family on the 'net.",
+  "main": "getPosts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobbland/densford.net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cobbland/densford.net/issues"
+  },
+  "homepage": "https://github.com/cobbland/densford.net#readme",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
