@@ -57,6 +57,7 @@ async function generateRSS(posts, outputPath = 'rss.xml') {
         title: "Densford Family Network",
         description: "A combined feed of all the sites on the Densford network.",
         feed_url: "https://densford.net/rss.xml",
+        site_url: 'https://densford.net',
         language: "en",
         pubDate: new Date(),
         ttl: 60,
