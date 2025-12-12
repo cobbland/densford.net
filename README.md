@@ -1,2 +1,3 @@
 # densford.net
-Home on the net of the Densford family
+
+Home of the Densford family on the 'net.
