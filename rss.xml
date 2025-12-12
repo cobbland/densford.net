@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Densford Family Network]]></title>
+        <description><![CDATA[A combined feed of all the sites on the Densford network.]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 12 Dec 2025 23:05:12 GMT</lastBuildDate>
+        <atom:link href="https://densford.net/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Fri, 12 Dec 2025 23:05:12 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Bookmark of Mari Lwyd’s Pantri Panic Launched]]></title>
+            <description><![CDATA[A post by Cobb from cobb.land]]></description>
+            <link>https://cobb.land/posts/bookmarks/mari-lwyds-pantri-panic-launched/</link>
+            <guid isPermaLink="true">https://cobb.land/posts/bookmarks/mari-lwyds-pantri-panic-launched/</guid>
+            <dc:creator><![CDATA[Cobb]]></dc:creator>
+            <pubDate>Wed, 10 Dec 2025 22:05:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;You know I had to load &lt;a href=&quot;https://rhyswynne.itch.io/mari-lwyds-pantri-panic&quot;&gt;this puppy&lt;/a&gt; up on my Miyoo Mini Plus for some festive holiday fun! (So what if my high score is currently only nine hundred something—I&apos;m still getting the hang of it.)&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bookmark of Discovering the indieweb with calm tech]]></title>
+            <description><![CDATA[A post by Cobb from cobb.land]]></description>
+            <link>https://cobb.land/posts/bookmarks/discovering-the-indieweb-with-calm-tech/</link>
+            <guid isPermaLink="true">https://cobb.land/posts/bookmarks/discovering-the-indieweb-with-calm-tech/</guid>
+            <dc:creator><![CDATA[Cobb]]></dc:creator>
+            <pubDate>Wed, 10 Dec 2025 19:45:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Robert shares two great tools here (in addition to his beautiful vision of the internet): &lt;a href=&quot;https://github.com/robalexdev/blog-quest&quot;&gt;Blog Quest&lt;/a&gt; (for finding RSS feeds as you browse the web) and &lt;a href=&quot;https://streetpass.social&quot;&gt;StreetPass&lt;/a&gt; (the same but for finding Mastodon profiles). I&apos;ve already installed them both.&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Let It Snow]]></title>
+            <description><![CDATA[A post by Cobb from cobb.land]]></description>
+            <link>https://cobb.land/posts/let-it-snow/</link>
+            <guid isPermaLink="true">https://cobb.land/posts/let-it-snow/</guid>
+            <dc:creator><![CDATA[Cobb]]></dc:creator>
+            <pubDate>Thu, 04 Dec 2025 17:30:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;With a winter weather advisory in effect here in the foodhills of Appalachia, I&apos;m feeling pretty festive. So, inspired by &lt;a href=&quot;https://blog.gridranger.dev/snowfall/&quot;&gt;Dávid&apos;s Snowfall post&lt;/a&gt; (and using most of &lt;a href=&quot;https://framagit.org/gridranger/gridranger.frama.io/-/snippets/7593&quot;&gt;his code&lt;/a&gt;), I added falling snow to this website.&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Cheers to 34]]></title>
+            <description><![CDATA[A post by Sai from oatmilk]]></description>
+            <link>https://blog.saisarida.com/2025/08/24/cheers-to.html</link>
+            <guid isPermaLink="true">https://blog.saisarida.com/2025/08/24/cheers-to.html</guid>
+            <dc:creator><![CDATA[Sai]]></dc:creator>
+            <pubDate>Mon, 25 Aug 2025 01:48:09 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Today is my birthday. 34 times around the sun—how did I get so old?  I usually don&amp;rsquo;t talk much about my birthday. It can feel kind of funny, like &amp;ldquo;hey, celebrate me!&amp;rdquo; You know? Maybe because we usually don&amp;rsquo;t make too big of a deal on birthdays in Thailand (at least not in my family anyway). But as I get older, I am allowing myself to celebrate myself more. I am thankful to be alive and I&amp;rsquo;m just grateful. I didn&amp;rsquo;t really know what I wanted to do this year, so I invited two of my friends over last minute for some lighthearted watercolor painting. I was going to buy some flowers so we could paint them, but I caved last minute and bought some fun looking veggies instead (and hey, we can eat them later!). My husband, Jacob, made a triple berry and lemon galette with thyme crust and homemade whipped cream for me (with vegan butter and non-dairy cream of course because lactose intolerance). It was so wonderful. He also got me an embroidery kit—something I&amp;rsquo;ve been wanted to try for a while now. My friends Claire and Nikki brought me cards and flowers. We spent the afternoon enjoying the berry galette with a pot of earl grey and painting some veggies and flowers. My heart is full.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/triple-berry-galette.jpg&quot; width=&quot;463&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/rni-films-img-bb88a41a-435f-4923-8172-cde7d7586efc.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/gift.jpg&quot; width=&quot;463&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/berries.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/galette-dough.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/making-galette.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/img-4585-snapseedcopy.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/rni-films-img-03c98b04-2c0e-4797-93e3-3c1dbb8c196c.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/watercolor.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/rni-films-img-3ba901cb-6069-4bb2-959e-794d3ad65e9b.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/rni-films-img-13872bbc-2994-4dc7-9317-5560b010afc6.jpg&quot; width=&quot;450&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[OOTD: Summer is my jam]]></title>
+            <description><![CDATA[A post by Sai from oatmilk]]></description>
+            <link>https://blog.saisarida.com/2025/08/12/ootd-summer-is-my-jam.html</link>
+            <guid isPermaLink="true">https://blog.saisarida.com/2025/08/12/ootd-summer-is-my-jam.html</guid>
+            <dc:creator><![CDATA[Sai]]></dc:creator>
+            <pubDate>Wed, 13 Aug 2025 01:07:23 GMT</pubDate>
+            <content:encoded>&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/img-2260.jpg&quot; width=&quot;428&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;
+&lt;p&gt;I felt inspired so I did a whimsical little illustration of what I wore today. This has been my go-to outfit this summer (alternating between these two pairs of mary jane shoes and my two favorite handmade bags from Thailand). And no, I do not wear heirloom tomatoes. I’ve been into heirloom tomatoes lately—just the look of them I guess, because I haven’t eaten any recently. Anyways, I have so much fun mixing and matching colors, textures, and patterns when it comes to clothes. These olive yellow linen shorts paired with the boxy light blue button-down make me want to dance. I’ve worn this to the secondhand bookstore, the local boutique shop, a grocery run, soil shopping (to re-pot our poor plants), the library, etc. Maybe I should wear this to the farmer’s market sometime. I suppose I should fill my closet with multiple of these and have one outfit for the entire season. Summer is my jam because you can have so much fun wearing colorful things.
+🎨🖌️&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Post]]></title>
+            <description><![CDATA[A post by Sai from oatmilk]]></description>
+            <link>https://blog.saisarida.com/2025/08/10/hello-there-here-i-am.html</link>
+            <guid isPermaLink="true">https://blog.saisarida.com/2025/08/10/hello-there-here-i-am.html</guid>
+            <dc:creator><![CDATA[Sai]]></dc:creator>
+            <pubDate>Sun, 10 Aug 2025 19:57:14 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Hello there. Here I am in my 30s writing my first blog post EVER (better late than never, right?). My name is Sai and I&amp;rsquo;m from Bangkok, Thailand. My blog is called oatmilk because I&amp;rsquo;m lactose intolerant. And here&amp;rsquo;s a picture of me on expired film.&lt;/p&gt;
+&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/8f90162a68.jpg&quot; width=&quot;397&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Webmentions]]></title>
+            <description><![CDATA[A post by Jacob from  Jacob Densford]]></description>
+            <link>https://blog.jacobdensford.com/webmentions</link>
+            <guid isPermaLink="true">https://blog.jacobdensford.com/webmentions</guid>
+            <dc:creator><![CDATA[Jacob]]></dc:creator>
+            <pubDate>Thu, 24 Jul 2025 22:05:06 GMT</pubDate>
+            <content:encoded>  
+&lt;p&gt;&lt;span class=&quot;firstletter&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;firstwords&quot;&gt;his post is here to test&lt;/span&gt; the webmentions setup on my other website. Feel free to ignore it! (Or follow the link to my new site—the choice is yours.)&lt;/p&gt;
+&lt;p&gt;I’m linking to my latest (and only, at the time of writing) post: &lt;a href=&quot;https://cobb.land/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt;. Nice post, self!&lt;/p&gt;  </content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Can’t We Bomb the World into Peace?]]></title>
+            <description><![CDATA[A post by Daryl from Here I Sit]]></description>
+            <link>https://daryldensford.com/2025/06/24/cant-we-bomb-the-world-into-peace/</link>
+            <guid isPermaLink="true">https://daryldensford.com/2025/06/24/cant-we-bomb-the-world-into-peace/</guid>
+            <dc:creator><![CDATA[Daryl]]></dc:creator>
+            <pubDate>Tue, 24 Jun 2025 11:56:48 GMT</pubDate>
+            <content:encoded>&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignright size-large is-resized&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2025/06/franti.jpg&quot;&gt;&lt;img width=&quot;640&quot; height=&quot;640&quot; data-attachment-id=&quot;4465&quot; data-permalink=&quot;https://daryldensford.com/2025/06/24/cant-we-bomb-the-world-into-peace/franti/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2025/06/franti.jpg&quot; data-orig-size=&quot;640,640&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}&quot; data-image-title=&quot;&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2025/06/franti.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2025/06/franti.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2025/06/franti.jpg?w=640&quot; alt=&quot;&quot; class=&quot;wp-image-4465&quot; style=&quot;width:160px;height:auto&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I’ve recently seen a lot of Christians posting on FB a quote from a Michael Franti song from about 20 years ago: “We can bomb the world to pieces; But we can&amp;#8217;t bomb it into peace.” When you first read it, you want to raise your fist and yell, “Hell, yeah!” or at least that’s the picture I see coming from Franti’s song. The trouble is, the statement, even the sentiment behind it, is not based in reality, or anywhere near reality.&lt;/p&gt;
+
+
+
+&lt;p&gt;If we look at it from a purely secular perspective, the idea of a world without war is unimaginable, and even less attainable. The greed and drive for power exhibited by many -if not most- political leaders make a peaceful world only a fantasy, an out-of-reach utopia. For decades musicians and activists have called for the world to lay down its arms and live in peace to no avail. Why? Because they’re not listening to the poets and free spirits who would have everyone around the world hold hands and sing (maybe with a Coke?). World (or even local) peace cannot exist as long as there is a dollar to be gained, a piece of land someone else wants or a threat to one’s safety someone else possesses. So, while it’s a catchy lyric that may sell records, it’s not a plan for world peace.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignleft size-large is-resized&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2025/06/tehran-burning.webp&quot;&gt;&lt;img width=&quot;900&quot; height=&quot;600&quot; data-attachment-id=&quot;4467&quot; data-permalink=&quot;https://daryldensford.com/2025/06/24/cant-we-bomb-the-world-into-peace/tehran-burning/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2025/06/tehran-burning.webp&quot; data-orig-size=&quot;900,600&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}&quot; data-image-title=&quot;Tehran Burning&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2025/06/tehran-burning.webp?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2025/06/tehran-burning.webp?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2025/06/tehran-burning.webp?w=900&quot; alt=&quot;&quot; class=&quot;wp-image-4467&quot; style=&quot;width:314px;height:auto&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Considering this quote from a religious perspective, Christians may be compelled to raise their hand toward heaven and reverently say, “Amen!” but why? When it flashes on your screen, in the midst of images of cities burning, one is inclined to believe that it must be a word from the Lord or at least a quote from Scripture. But even then, it’s as far from the realm of possibility as is the presence of God’s Kingdom in its fullness. Too many Christians are trying to make the Bible say that, even in this era of “already” and the “not yet” of the Kingdom, we should see the fullness of the Kingdom on display. I’ve yet to see a lamb lay near a lion without soon being devoured, so to expect nations to beat their swords into ploughshares and their spears into pruning hooks is asking too much, asking the impossible, in fact, since the fullness of the Kingdom, when peace will reign supreme, is still a future hope.&lt;/p&gt;
+
+
+
+&lt;p&gt;We can dream, can’t we? Sure, as long as you realize that the idea that “we can’t bomb [the world] into peace” isn’t accurate. Of course, we would like to reach peace through diplomacy but how often does that happen, or if it does, how long does it last? In this world, where peace is elusive, it sometimes takes a bomb to get peace. I know the passivists and musicians will cry, “foul!” but a catchy lyric isn’t going to change the world. There are some actors on the world stage, who will continue using violence to get what they want until they’re stopped. Will words stop them? Will songs stop them? Will agreements or treaties stop them? Usually not, so it may take bombs to stop them. Bombs may be the only way to stop some evil from going forward. Is that God’s way? Probably not, but we’re not living in the Kingdom of God yet, the fullness and the promises of the Kingdom aren’t a reality for us yet. So, we can’t expect the character of the Kingdom to be lived out in world leaders who likely won’t be part of the Kingdom of God when it does come.&lt;/p&gt;
+
+
+
+&lt;p&gt;Does it mean we don&amp;#8217;t love when we have to resort to military action to achieve peace? Of course not! We can deplore what we must do out of necessity. We can still love the people who are only victims of their evil dictators. We can still compassionately care for those who find themselves in the middle of a war they didn&amp;#8217;t ask for. We can even love those who we are forced to use violence against to stop their acts of evil. In fact, our use of military force could, according to Augustine, be an act of love as we seek to prevent evil from continuing.&lt;/p&gt;
+
+
+
+&lt;p&gt;Pray for peace? Of course we should! God is still on the throne and can move the hearts of humankind. Expect peace though? Probably not until Jesus returns and ushers in the fullness of the Kingdom. However, as believers we can still experience peace, though not the kind Franti’s song calls for or passivist Christians’ lofty quotes suggest are possible. Rather we can have a deep, settled peace within us, even when there is no peace all around us. This is the peace that we can experience in the “already” era of the Kingdom while we long for the “not yet” which is to come.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color has-link-color wp-elements-7e4ac651328708ea719ac0894fa30934&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color has-link-color wp-elements-7e4ac651328708ea719ac0894fa30934&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-small-font-size&quot;&gt;Photos: &lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-small-font-size&quot;&gt;Michael Franti (from Spotify)&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-small-font-size&quot;&gt;Tehran in flames after bombing (from Kosovapress)&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[What Child is This]]></title>
+            <description><![CDATA[A post by Jacob from  Jacob Densford]]></description>
+            <link>https://blog.jacobdensford.com/what-child-is-this</link>
+            <guid isPermaLink="true">https://blog.jacobdensford.com/what-child-is-this</guid>
+            <dc:creator><![CDATA[Jacob]]></dc:creator>
+            <pubDate>Sat, 30 Nov 2024 05:00:00 GMT</pubDate>
+            <content:encoded>  
+&lt;p&gt;&lt;span class=&quot;firstletter&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;firstwords&quot;&gt;an the first&lt;/span&gt; (of two or three) session(s) of Nate Treme’s holiday classic, &lt;a href=&quot;https://natetreme.itch.io/whatchild&quot;&gt;What Child is This&lt;/a&gt;, using my&lt;span class=&quot;push-double&quot;&gt;&lt;/span&gt; &lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;foldie” game, &lt;a href=&quot;https://illuminatedsnail.itch.io/peasant&quot;&gt;Peasant&lt;/a&gt;, for my three sisters and my wife.&lt;/p&gt;
+&lt;p&gt;I started the party right outside the dungeon in the north west of the hex map—the Tomb of the Owl Lord. They delved in, killed the giant roaches, and descended through the well of illusory sludge with a rope.&lt;/p&gt;
+&lt;p&gt;In the chamber below, they encountered my first change to the original adventure: I made the cultist into an evil Santa type figure. I also downgraded the spined devil to a second imp. They killed Santa, but not before one of the imps killed one of them. After donning his festive robe, the two devils obeyed a command to slaughter themselves upon the door leading down into the tomb proper, which unlocked it.&lt;/p&gt;
+&lt;p&gt;Below, they looted all the treasures from the sarcophagus. Then headed back up, stopping to explore the final room. The carpet ghost was annoyed by all the dust, but was appeased after they cleaned the carpet, telling them they could have it—I changed it into a &lt;em&gt;carpet of traveling&lt;/em&gt;, which can’t fly but can scoot along the ground at a brisk walking pace.&lt;/p&gt;
+&lt;p&gt;Outside, it was night. A random encounter roll had them meet the three wise men characters. Stars rained from the sky. One particular blue star descended about a dozen miles to the south. They set out together to see what they could see.&lt;/p&gt;
+&lt;p&gt;That’s where we ended it, to be continued when I visit for Christmas. Everyone enjoyed the adventure and Peasant worked out pretty well.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.blot.im/blog_1a99798b75eb45b680ec3403058453cf/_image_cache/7c712951-5af2-4e20-8bc1-40495a03c30d.png&quot; width=&quot;400&quot; height=&quot;666&quot; data-action=&quot;zoom&quot;&gt;&lt;/p&gt;  </content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Fancy initial letter]]></title>
+            <description><![CDATA[A post by Jacob from  Jacob Densford]]></description>
+            <link>https://blog.jacobdensford.com/fancy-initial-letter</link>
+            <guid isPermaLink="true">https://blog.jacobdensford.com/fancy-initial-letter</guid>
+            <dc:creator><![CDATA[Jacob]]></dc:creator>
+            <pubDate>Sat, 16 Nov 2024 05:00:00 GMT</pubDate>
+            <content:encoded>  
+&lt;p&gt;&lt;span class=&quot;firstletter&quot;&gt;I&lt;/span&gt; &lt;span class=&quot;firstwords&quot;&gt;was browsing &lt;a href=&quot;https://www.foliosociety.com/&quot;&gt;The Folio Society’s&lt;/a&gt;&lt;/span&gt; website yesterday, as I am wont to do. Don’t worry for me—I’m not at great risk of spending money because those books are just too dang expensive. But, man, do I want some (read: all) of them.&lt;/p&gt;
+&lt;p&gt;Among the many books that caught my eye—a &lt;a href=&quot;https://www.foliosociety.com/usa/the-lord-of-the-rings.html&quot;&gt;LotR&lt;/a&gt; boxed set (and &lt;a href=&quot;https://www.foliosociety.com/usa/the-hobbit.html&quot;&gt;accompanying&lt;/a&gt; &lt;a href=&quot;https://www.foliosociety.com/usa/the-silmarillion.html&quot;&gt;books&lt;/a&gt;), a &lt;a href=&quot;https://www.foliosociety.com/usa/the-dune-collection.html&quot;&gt;Dune collection&lt;/a&gt; (because I really need another one of those), and all the &lt;a href=&quot;https://www.foliosociety.com/usa/books-of-earthsea.html&quot;&gt;books of Earthsea&lt;/a&gt;&lt;span class=&quot;small-caps&quot;&gt;—I&lt;/span&gt; spotted their &lt;a href=&quot;https://www.foliosociety.com/usa/the-book-of-the-new-sun-2-volume.html&quot;&gt;two-volume edition&lt;/a&gt; of &lt;em&gt;The Book of the New Sun&lt;/em&gt;. Seeing the layout within its pages sent me on a typographic journey. I had to know: What is that big letter at the beginning of a chapter called? And, more importantly, how do I have that on my website?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.blot.im/blog_1a99798b75eb45b680ec3403058453cf/_image_cache/4797f449-5156-4ed8-9706-279072aa37b2.jpg&quot; alt=&quot;Mm, look at that initial.&quot; width=&quot;1200&quot; height=&quot;1200&quot; data-action=&quot;zoom&quot;&gt;&lt;span class=&quot;caption&quot;&gt;Mm, look at that initial.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;It turns out, its called an &lt;a href=&quot;https://en.wikipedia.org/wiki/Initial&quot;&gt;initial&lt;/a&gt; (or an initia, if we’re talking about illuminated manuscripts, apparently). An initial is a letter at the beginning of a paragraph that’s larger than the rest of the text. And I &lt;em&gt;think&lt;/em&gt; the particular style of initial in question is a drop cap illustrated initial.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.blot.im/blog_1a99798b75eb45b680ec3403058453cf/_image_cache/d8de0af2-3504-4fc3-92c9-467d4153c1e4.svg&quot; alt=&quot;Delamotte, F.: “Ornamental Alphabets, Ancient and Mediæval” (1879)&quot; width=&quot;1000&quot; height=&quot;486&quot; data-action=&quot;zoom&quot;&gt;&lt;span class=&quot;caption&quot;&gt;Delamotte, F.: “Ornamental Alphabets, Ancient and Mediæval” (1879)&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;There are a variety of ways to add initials to website text. I read a few articles and followed a couple tutorials&lt;a href=&quot;#footnote-1J6Z&quot; class=&quot;footnote-ref&quot; id=&quot;ref-1J6Z&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;, messing around with some of the more modern ways, but deciding to go with the most compatible route in the end. (Mostly because my site’s current &lt;span class=&quot;small-caps&quot;&gt;HTML&lt;/span&gt; and &lt;span class=&quot;small-caps&quot;&gt;CSS&lt;/span&gt; is a mess, and because &lt;code&gt;initial-letter&lt;/code&gt; isn’t supported by my preferred browser.)&lt;/p&gt;
+&lt;p&gt;Here is the &lt;span class=&quot;small-caps&quot;&gt;HTML&lt;/span&gt; I’ve added to my blog post template:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;hljs html&quot;&gt;&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;&lt;span class=&quot;hljs-name&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;hljs-attr&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;hljs-string&quot;&gt;&quot;firstletter&quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;X&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;/&lt;span class=&quot;hljs-name&quot;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;&lt;span class=&quot;hljs-name&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;hljs-attr&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;hljs-string&quot;&gt;&quot;firstwords&quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;xxxx xxxxx xxxxx xxxxx xxxxx&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;/&lt;span class=&quot;hljs-name&quot;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;And here is the &lt;span class=&quot;small-caps&quot;&gt;CSS&lt;/span&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&quot;hljs css&quot;&gt;&lt;span class=&quot;hljs-selector-class&quot;&gt;.firstletter&lt;/span&gt; {
+  &lt;span class=&quot;hljs-attribute&quot;&gt;color&lt;/span&gt;: &lt;span class=&quot;hljs-built_in&quot;&gt;rgb&lt;/span&gt;(&lt;span class=&quot;hljs-number&quot;&gt;209&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot;&gt;77&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot;&gt;65&lt;/span&gt;);
+  &lt;span class=&quot;hljs-attribute&quot;&gt;float&lt;/span&gt;: left;
+  &lt;span class=&quot;hljs-attribute&quot;&gt;font-family&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot;&gt;&apos;Typographer Woodcut Initials&apos;&lt;/span&gt;;
+  &lt;span class=&quot;hljs-attribute&quot;&gt;font-size&lt;/span&gt;: &lt;span class=&quot;hljs-number&quot;&gt;75px&lt;/span&gt;;
+  &lt;span class=&quot;hljs-attribute&quot;&gt;line-height&lt;/span&gt;: &lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;;
+  &lt;span class=&quot;hljs-attribute&quot;&gt;padding-top&lt;/span&gt;: &lt;span class=&quot;hljs-number&quot;&gt;4px&lt;/span&gt;;
+  &lt;span class=&quot;hljs-attribute&quot;&gt;padding-right&lt;/span&gt;: &lt;span class=&quot;hljs-number&quot;&gt;8px&lt;/span&gt;;
+}
+
+&lt;span class=&quot;hljs-selector-class&quot;&gt;.firstwords&lt;/span&gt; {
+  &lt;span class=&quot;hljs-attribute&quot;&gt;font-variant&lt;/span&gt;: small-caps;
+}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;I have no doubt smarter folks than me could come up with better ways of doing this, but I’m pretty happy with what I managed to accomplish. (At least, until I get the website redesign itch again—it’s coming!)&lt;/p&gt;
+&lt;section id=&quot;footnotes&quot; class=&quot;footnotes footnotes-end-of-document&quot; role=&quot;doc-endnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;footnote-1J6Z&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://thegymnasium.com/courses/take5/creating-beautiful-and-accessible-drop-caps&quot;&gt;&lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;Creating Beautiful and Accessible Drop Caps”&lt;/a&gt;, &lt;a href=&quot;https://css-tricks.com/snippets/css/drop-caps/&quot;&gt;&lt;span class=&quot;push-double&quot;&gt;&lt;/span&gt;&lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;Drop Caps”&lt;/a&gt;, &lt;a href=&quot;https://product.voxmedia.com/2019/6/17/18524029/the-ballad-of-drop-caps-and-design-systems&quot;&gt;&lt;span class=&quot;push-double&quot;&gt;&lt;/span&gt;&lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;Drop caps &amp;amp; design systems”&lt;/a&gt;, &lt;a href=&quot;https://rwt.io/typography-tips/drop-caps-styling-initial-letter&quot;&gt;&lt;span class=&quot;push-double&quot;&gt;&lt;/span&gt;&lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;Drop caps (styling the initial letter)”&lt;/a&gt;&lt;a href=&quot;#ref-1J6Z&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;&lt;span class=&quot;small-caps&quot;&gt;↩︎&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;  </content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[How Can You Be a Christian and Vote for…]]></title>
+            <description><![CDATA[A post by Daryl from Here I Sit]]></description>
+            <link>https://daryldensford.com/2024/11/06/how-can-you-be-a-christian-and-vote-for/</link>
+            <guid isPermaLink="true">https://daryldensford.com/2024/11/06/how-can-you-be-a-christian-and-vote-for/</guid>
+            <dc:creator><![CDATA[Daryl]]></dc:creator>
+            <pubDate>Wed, 06 Nov 2024 11:09:11 GMT</pubDate>
+            <content:encoded>
+&lt;p&gt;I wasn’t able to vote in our national election this year, due to an unexpected death of a family member which required my being out-of-town on election day, too late to get in on absentee or early voting. But to listen to some of my Christian friends on FB, it’s a good thing I didn’t. Some made it clear (if not overtly) that as a Christian, I couldn’t possibly vote for President Trump. Other Christian FB friends made it clear (if not overtly) that as a Christian I couldn’t possibly vote for Vice President Harris.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;aligncenter size-large&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2024/11/trump-harris.jpg&quot;&gt;&lt;img width=&quot;754&quot; height=&quot;360&quot; data-attachment-id=&quot;4458&quot; data-permalink=&quot;https://daryldensford.com/2024/11/06/how-can-you-be-a-christian-and-vote-for/trump-harris/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2024/11/trump-harris.jpg&quot; data-orig-size=&quot;754,360&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}&quot; data-image-title=&quot;Trump Harris&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2024/11/trump-harris.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2024/11/trump-harris.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2024/11/trump-harris.jpg?w=754&quot; alt=&quot;&quot; class=&quot;wp-image-4458&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2024/11/trump-harris.jpg 754w, https://daryldensford.com/wp-content/uploads/2024/11/trump-harris.jpg?w=150 150w, https://daryldensford.com/wp-content/uploads/2024/11/trump-harris.jpg?w=300 300w&quot; sizes=&quot;(max-width: 754px) 100vw, 754px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;br&gt;Who was right? How could a Christian vote for Trump or Harris and still please God? If we’re to take the outcome as a sign for who was right, or at least for who were the better pray-ers, it would seem the one’s pushing for the Christian vote for Harris were wrong and God favors Trump. But I’m not sure (probably like you) that the outcome necessarily reveals God’s will…or maybe it does. Most likely those whose preferred candidate didn’t win will devalue the teaching in Romans 13 about government authorities being established by God and the further guidance it provides concerning our attitude and posture toward them.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;br&gt;Opponents of Trump most often cited his character as the biggest reason he wasn’t qualified to be President, turning a blind eye to Harris’ actions, decisions, promises and statements contrary to Christian values while opponents of Harris often cited those things the anti-Trumpers ignored about Harris, putting less negative weight on Trump’s personal, even sometimes public, life outside of his official policy decisions.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;br&gt;Grant it, character is important. I want for a president a man who has high moral values, but I think the issue I have with many of my Christian FB friends who insisted on Christians having to vote a certain way to really vote “Christian” is that they were forcing (their) morality on the candidates, as though public office is a religious office. Sure, I would love to have all elected officials be Christian, better if they are conservative Christians, and if I took it a bit farther, it would be even better if they were conservative Christians in the Wesleyan tradition. But not only is that not likely to happen en masse but it would come awfully close to violating the “No Religious Test” clause in Article VI of the U.S. Constitution, though that clause isn’t intended to prevent voters from using the test but rather to prevent government action influenced by the candidates’ religion.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;br&gt;So where’s the rub? It appears, if we are permitted to read between the lines of the spiritual diatribes of the Church’s FB pundits (as well as remember previous FB posts where they reveal their allegiances and political views), that our faith or spirituality is being used to mask the actual political desires of the authors. However, they often do a pretty good job making their political views biblical, but then they’re forcing their interpretation of Scripture onto the issues while denigrating other’s valid interpretations of Scripture, which in the case of some of the issues, often have centuries or even millennia of support from the early Church and Church Fathers…and even the words of Scripture and (dare I?) Jesus himself.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;br&gt;Do I think we should ignore our faith and Scripture teaching when voting for candidates for public office? Absolutely not. Our faith should influence all of our decisions and actions, whether they’re properly pigeon holed as “spiritual” or “secular” (though that pigeon holing, or separation, violates the idea that all of life -for the Christian- is spiritual even when delving into what could be defined as the secular, or arenas that are not defined or viewed as spiritual). It’s always going to come down to your view of what’s right against my view of what’s right. So, we might as well step down from our political-couched-in-spiritual-language soap box, simply urge our friends and parishioners to research the candidates and issues, study the Scripture and spend time in prayer before voting, then let our political views be what they are: political.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;br&gt;Accepting this philosophy would certainly simplify the debate. It would remove the effort to try to find Scripture that supports our political views and frees us to discuss or debate the issues for what they are, realizing that there is an aisle, actual and symbolic, which divides us by our belief about what is best for our country and its people, and how best to accomplish it. We can’t ignore the aisle but we don’t have to let it be divisive. If we don’t overly spiritualize public issues, questioning the spirituality of those who don’t agree with us, we can possibly have civil conversations about the issues and work toward better understanding and potential compromise rather than suggesting those who disagree with us are less spiritual or less Christian.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color has-link-color wp-elements-7e4ac651328708ea719ac0894fa30934&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color has-link-color wp-elements-7e4ac651328708ea719ac0894fa30934&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color has-link-color wp-elements-7e4ac651328708ea719ac0894fa30934&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color has-link-color wp-elements-7e4ac651328708ea719ac0894fa30934&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;Photo from theconversation.com/us-election-trump-declares-victory-theres-never-been-anything-like-this-241711 (while not necessarily recommending the article it&amp;#8217;s attached to).&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[My Experience at the Asbury Outpouring]]></title>
+            <description><![CDATA[A post by Daryl from Here I Sit]]></description>
+            <link>https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/</link>
+            <guid isPermaLink="true">https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/</guid>
+            <dc:creator><![CDATA[Daryl]]></dc:creator>
+            <pubDate>Mon, 20 Feb 2023 23:13:57 GMT</pubDate>
+            <content:encoded>
+&lt;p class=&quot;has-black-color has-text-color&quot;&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;SATURDAY WAS GOOD, BUT NOT WHAT WE NEEDED&lt;/p&gt;
+
+
+
+&lt;p&gt;On Saturday, February 18&lt;sup&gt;th&lt;/sup&gt; my wife, Holly, my youngest daughter, Heidi, and I made the three-and-a-half-hour drive from Logan, West Virginia to Wilmore, Kentucky, home of Asbury University. This wasn’t the normal “college visit.” It wasn’t a vacation. It was more like a pilgrimage to experience God in a greater way.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;aligncenter&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_134112584_hdr_2.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img data-attachment-id=&quot;4416&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230219_134112584_hdr_2/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_134112584_hdr_2.jpg&quot; data-orig-size=&quot;3361,1892&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;1.7&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676814075&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;4.852&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;100&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.00061274509803922&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;latitude&amp;quot;:&amp;quot;37.864038&amp;quot;,&amp;quot;longitude&amp;quot;:&amp;quot;-84.660473972222&amp;quot;}&quot; data-image-title=&quot;IMG_20230219_134112584_HDR_2&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_134112584_hdr_2.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_134112584_hdr_2.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_134112584_hdr_2.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-4416&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;If you somehow haven’t heard, something special happened following the regularly scheduled chapel service at Asbury University on February 8&lt;sup&gt;th&lt;/sup&gt;.&amp;nbsp; Students remained after chapel, then returned after classes, then stayed all night, for prayer…for worship…for confession and repentance…for God. There was a miraculous outpouring of the Holy Spirit with countless testimonies of lives changed-spiritually and physically. This had been going continuously for ten days when we arrived on the 18&lt;sup&gt;th&lt;/sup&gt;.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignleft size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330946816_1212058732782565_1058739996809990590_n.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;225&quot; data-attachment-id=&quot;4417&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/330946816_1212058732782565_1058739996809990590_n/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330946816_1212058732782565_1058739996809990590_n.jpg&quot; data-orig-size=&quot;1080,810&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}&quot; data-image-title=&quot;330946816_1212058732782565_1058739996809990590_n&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330946816_1212058732782565_1058739996809990590_n.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330946816_1212058732782565_1058739996809990590_n.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330946816_1212058732782565_1058739996809990590_n.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4417&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330946816_1212058732782565_1058739996809990590_n.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/330946816_1212058732782565_1058739996809990590_n.jpg?w=600 600w, https://daryldensford.com/wp-content/uploads/2023/02/330946816_1212058732782565_1058739996809990590_n.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;This outpouring was so significant that students from other schools around the country visited Asbury and returned to their schools where many experienced similar visitations of the Holy Spirit. Interesting to note, these schools were from different theological traditions: Methodist, Pentecostal, Baptist, Nazarene, and others. In addition to the schools, individuals from literally around the world visited Asbury, wanting to experience God in the way they saw in the videos and testimonies that had gone viral since the “outpouring” began.&lt;/p&gt;
+
+
+
+&lt;p&gt;That is why I wanted to go to Asbury. I wanted to experience God in the same way I had heard in the testimonies and saw in the videos. And I wanted my daughter to experience what revival scholars have called a “once in a generation” event. We went &lt;em&gt;not &lt;/em&gt;as “spiritual tourists” but really wanting to be participants in a movement of God.&lt;/p&gt;
+
+
+
+&lt;p&gt;We arrived at the campus about 12:30, only a half an hour before the doors to Hughes Chapel were to open. We noticed the line of people going around the block already so quickly found a place to park and started the 2 mile or so walk from our parking spot to the end of the line.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignright size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_130552998_hdr.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;168&quot; data-attachment-id=&quot;4431&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230218_130552998_hdr/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_130552998_hdr.jpg&quot; data-orig-size=&quot;8000,4500&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;1.7&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676725556&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;4.852&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;100&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.0002970002970003&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;latitude&amp;quot;:&amp;quot;37.862291972222&amp;quot;,&amp;quot;longitude&amp;quot;:&amp;quot;-84.662266972222&amp;quot;}&quot; data-image-title=&quot;IMG_20230218_130552998_HDR&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_130552998_hdr.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_130552998_hdr.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_130552998_hdr.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4431&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_130552998_hdr.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_130552998_hdr.jpg?w=597 597w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_130552998_hdr.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I had read on the University’s website that there was a separate line for students-high school and college, so asked if Heidi wanted to get in that line so that even if we didn’t make it into the chapel, at least she would, and could experience it. So while Holly waited in line, I took Heidi around to the front of the chapel and found the student line, still a long line, but not nearly as long as the “public” line. It took Heidi about an hour or so to finally get into Hughes Chapel.&lt;/p&gt;
+
+
+
+&lt;p&gt;In the meantime, I noticed Estes Chapel across the street, which was one of the overflow sites where they provided a live-stream from Hughes Chapel. I contemplated the chances of us making it into Hughes like we wanted, as long of a line there was, so texted Holly about me getting in the line for Estes, which she encouraged me to do. While I waited, we texted about whether her line would allow her (with me joining her later) to get into Hughes, or not, and whether it would be better for her to come and join me to go to Estes. She decided she’d wait in the main line while I went to Estes, then I would find her in line later.&lt;/p&gt;
+
+
+
+&lt;p&gt;I was in the line for about an hour and a half waiting to get in to Estes Chapel. Being right across the street from Hughes Chapel, we were close enough to see the large screens they set up in the lawn in front and we could hear the sounds through the speakers, coming from Hughes. As testimonies were shared, Scriptures read, prayers said, and songs sung, I found myself (along with others in the line for Estes Chapel) joining in the praying and singing, often with tears coming to my eyes as I felt God’s presence make his way through the line. I probably felt him most though, as I prayed for Heidi, now in Hughes Chapel, that God would speak to her, make himself known to her, and get ahold of her. I prayed that she would experience God and this gathering of young people on fire for God, in a way that would change her life.&lt;/p&gt;
+
+
+
+&lt;figure class=&quot;wp-block-image&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_144301064_hdr.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img data-attachment-id=&quot;4433&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230218_144301064_hdr/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_144301064_hdr.jpg&quot; data-orig-size=&quot;8000,4500&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;1.7&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676731383&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;4.852&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;100&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.0005524861878453&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;}&quot; data-image-title=&quot;IMG_20230218_144301064_HDR&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_144301064_hdr.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_144301064_hdr.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_144301064_hdr.jpg&quot; alt=&quot;&quot; class=&quot;wp-image-4433&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Finally, I was close enough to the door of Estes Chapel that when they called for “one person” I could step up! They had a good system of “ushers” (who were faculty and staff of the University and Seminary serving way below their pay grade, which just showed their servant-hearts). The ushers would watch for people to leave then signal to the ushers at the door how many seats were available, then another would lead the incoming worshippers to the empty seats.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;I was led to a seat about half way up on the right side. Room enough for three, I was seated beside two guys from Indiana who had been there an hour or so. After taking a quick trip to the restroom (since I had been waiting in line for a while!) I settled into my seat to see what God would do.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignleft size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_145825802.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;168&quot; data-attachment-id=&quot;4422&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230218_145825802/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_145825802.jpg&quot; data-orig-size=&quot;8000,4500&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;1.7&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676732308&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;4.852&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;195&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.016666666666667&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;}&quot; data-image-title=&quot;IMG_20230218_145825802&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_145825802.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_145825802.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_145825802.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4422&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_145825802.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_145825802.jpg?w=597 597w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_145825802.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I wondered what it would be like in the overflow chapel instead of the main chapel. While it obviously wasn’t the same, it wasn’t as bad as I thought it would be. There were two screens mounted in the front of the sanctuary and the sound from the stream was good. The leaders at Hughes, knowing they were being streamed to other sites, would often mention “those in Estes and McKenna Chapels” which helped us to feel more like a part of the main group. Nearly everyone where I was seemed to be not just a spectator but a participant. There were shouts of praise and thanks when what was said at Hughes, through the live stream, made it appropriate. When songs were being sung at Hughes, they were sung equally as strong in Estes. When we were called to pray, prayers were lifted as fervently as in the main chapel. When God moved, people in Estes responded and the altars were used, with volunteers praying for those seeking help. I really enjoyed my time there (as I usually do participating in times of worship). I genuinely felt God’s presence and felt very blessed to be there. I was glad that I could participate and experience what I believed would be an historical event in the Church, while I continued to hope and pray that Heidi would experience God in a way I had been hearing about and seeing happening to so many during this outpouring at Asbury.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;I spent about an hour or so in Estes, then felt like I needed to get back to Holly who had been in the line for Hughes Chapel for over four hours. It took a bit to find her (it was a long line) though I finally did just in time to get a Chick-fil-a sandwich from the Salvation Army truck parked by the line! By then Heidi was also with her, having just stayed in Hughes Chapel a short time. Holly and I were disappointed. We had such high hopes that this exposure to what was happening would draw all of us in like I had been seeing in the videos and testimonies from Asbury. But it was what it was.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignright size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_142516851_hdr.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;169&quot; height=&quot;300&quot; data-attachment-id=&quot;4420&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230218_142516851_hdr/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_142516851_hdr.jpg&quot; data-orig-size=&quot;4496,8000&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;1.7&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676730320&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;4.852&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;100&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.00056085249579361&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;latitude&amp;quot;:&amp;quot;37.862456972222&amp;quot;,&amp;quot;longitude&amp;quot;:&amp;quot;-84.661118&amp;quot;}&quot; data-image-title=&quot;IMG_20230218_142516851_HDR&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_142516851_hdr.jpg?w=169&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_142516851_hdr.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_142516851_hdr.jpg?w=169&quot; alt=&quot;&quot; class=&quot;wp-image-4420&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_142516851_hdr.jpg?w=169 169w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_142516851_hdr.jpg?w=338 338w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230218_142516851_hdr.jpg?w=84 84w&quot; sizes=&quot;(max-width: 169px) 100vw, 169px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Holly decided to go over to Estes Chapel while I took her place in the line for Hughes. Going to Estes, at least she would experience more than just waiting in line and after a bit she could rejoin me in line and maybe we would get into Hughes. Holly texted a little while later that her time in Estes would satisfy her so I shouldn’t continue to wait in the Hughes line if I didn&amp;#8217;t want to. I told Holly to stay at Estes as long as she wanted (or needed) to and let me know when she&amp;nbsp; was ready, that we would be fine. She stayed at Estes Chapel for about an hour and just when I was about to suggest that Heidi and I run to a store or two then come back and pick her up, she said she was ready to go so I drove over and picked her up. As we made our way toward home, to a hotel about 45 minutes from Wilmore, we talked about our experience at Asbury. I said that I enjoyed it and was blessed, but it wasn’t like the experience I was hoping for after hearing the testimonies of others who had been there…and in Hughes Chapel earlier in the week. Holly agreed that she enjoyed the time in Estes Chapel and we were all ready to go home. Glad we had come, blessed by experiencing a movement of God, but still a bit disappointed.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;GOD WAS EVEN MOVING IN THE LINES&lt;/p&gt;
+
+
+
+&lt;p&gt;There’s more to our time at Asbury, some very exciting things that happened later, but let me jump in here for a few minutes and talk a little about the “Outpouring” and how the University handled it, then I want to tell you some of the amazing things that we experienced while waiting in line-a time you would expect to be mundane, before I get to what God finally did for us.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;I’m not going to provide a commentary on what I think what some are calling a “revival” is or isn’t or what I think should be the follow-on fruit of this event. What I do want to share is &lt;em&gt;my&lt;/em&gt; involvement in it, what I observed, what I felt, and what I experienced.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;From what I have read and seen, there were groups of students praying for revival weeks or even months prior to February 8&lt;sup&gt;th&lt;/sup&gt;. It seems that God chose to answer their prayer in a very dynamic way. So, God came to the Asbury campus which just spurred more prayer which brought more God which brought repentance, healing, reconciliation, cleansing, filling, and all sorts of other spiritual and physical actions.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;It was interesting to watch those who served the worshippers, including thousands of visitors-it was the staff and faculty of the University and Seminary. It wasn’t unusual to see a PhD seating guests or another professor guiding traffic. There were also many other people who volunteered to help facilitate this moving of the spirit without much rest or reward. The Salvation Army was there in force distributing water, coffee and food to those in line. The little Wilmore Christian Church across the street from the University provided hot dogs, chips, cookies and water for the people in line. Others walked along the throngs of people with granola bars, fruit snacks, water, all types of refreshments, asking for nothing in return.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;I wondered how the community thought about this influx of thousands of people into their small community but have heard reports that the businesses are enjoying the boost in sales, with visitors needing to eat, gas up, and lodge. A lady in the house next to where we parked on Saturday opened her window and yelled out to us to have a great time of worship! On Sunday, the traffic did begin to be too much for the town to handle, while Hughes chapel and the overflow locations were filled to capacity,&amp;nbsp; requiring local authorities (who the University administration had been in close communication with) to close the town to people coming to the campus to take part in the “Outpouring.” We were fortunate that we had arrived earlier in the day, with the traffic only being diverted to the far side of town and funneling into a parking area near campus. As we left town, the line in continued to be long, and probably few of those made it inside.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignleft size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/331009964_581546603990250_1081027145602946351_n.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;224&quot; data-attachment-id=&quot;4428&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/331009964_581546603990250_1081027145602946351_n/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/331009964_581546603990250_1081027145602946351_n.jpg&quot; data-orig-size=&quot;1011,758&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676879122&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;}&quot; data-image-title=&quot;331009964_581546603990250_1081027145602946351_n&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/331009964_581546603990250_1081027145602946351_n.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/331009964_581546603990250_1081027145602946351_n.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/331009964_581546603990250_1081027145602946351_n.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4428&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/331009964_581546603990250_1081027145602946351_n.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/331009964_581546603990250_1081027145602946351_n.jpg?w=598 598w, https://daryldensford.com/wp-content/uploads/2023/02/331009964_581546603990250_1081027145602946351_n.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;As for the “services” themselves, though that word &amp;#8220;services&amp;#8221; is more formal than what was happening, at least at the beginning, what was striking was the simplicity. There wasn’t a stage full of instruments. There wasn’t special lighting or effects. There weren’t professional singers, musicians or worship leaders. In fact, some reports have said that some high-profile musicians and ministers had volunteered to lend their services to the University but were kindly refused. What was there for instrumentation was simply a piano and sometimes a guitar. The singers were students who, while some were significantly polished, others were less so, but all of them appeared to have a heart for God and a desire to see Him move and work in their presence.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;There wasn’t any formal preaching or teaching (except during the already scheduled chapel times) but there was music being played and sung, prayers being offered, testimonies being shared, scriptures being read, and even spiritual artwork being created. At least in the beginning, there didn’t seem to be any plan or order of worship, but rather progressed as the Holy Spirit moved and prompted people to act.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;During everything that was going on you could see individuals, pairs and groups praying for themselves, for others, and for God’s presence. Seldom did you seen anyone at the altar praying by themselves, as someone would quickly rush to their side to pray with them. As the “Outpouring” continued, it seems there were prayer teams created or appointed to not only pray for seekers but to pray over those who would be playing, singing, reading or speaking before they took the stage, ensuring God was in every aspect and movement of the worship.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Early on, you saw very little participation from the staff or faculty, as they allowed it to be a student-led (or received) movement of God, a grass-roots movement if you will. Later, however, there were staff members who helped guide the times of prayer, scripture readings and testimonies apparently to help maintain the integrity of the presentations and to provide everyone who God moved on  an opportunity to share.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;There were many acts going on during this “outpouring”: repentance, confession, reconciliation, healing, encouraging, and I’m sure countless more as God moved through the crowd, but I noticed three main elements which seemed to stand out above the others during the time I was there: Prayer, testimony and praise.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignright size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330770680_1247210296220495_1528490801887175955_n.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;240&quot; height=&quot;299&quot; data-attachment-id=&quot;4429&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/330770680_1247210296220495_1528490801887175955_n/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330770680_1247210296220495_1528490801887175955_n.jpg&quot; data-orig-size=&quot;1125,1405&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}&quot; data-image-title=&quot;330770680_1247210296220495_1528490801887175955_n&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330770680_1247210296220495_1528490801887175955_n.jpg?w=240&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330770680_1247210296220495_1528490801887175955_n.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330770680_1247210296220495_1528490801887175955_n.jpg?w=240&quot; alt=&quot;&quot; class=&quot;wp-image-4429&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330770680_1247210296220495_1528490801887175955_n.jpg?w=240 240w, https://daryldensford.com/wp-content/uploads/2023/02/330770680_1247210296220495_1528490801887175955_n.jpg?w=480 480w, https://daryldensford.com/wp-content/uploads/2023/02/330770680_1247210296220495_1528490801887175955_n.jpg?w=120 120w&quot; sizes=&quot;(max-width: 240px) 100vw, 240px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;As I mentioned earlier, there was almost constant prayer going on in small groups or with everyone, as individual needs were identified or God led the larger group to pray. Often, after testimonies, individuals would be prayed for and at times, entire groups who may share the struggles related in the testimonies, were lifted up in prayer. Prayer served as a major component to not only bring on this outpouring but to make it a time of repentance, healing and deliverance for hundreds of people; as well as for petitioning God to continue pouring out his spirit and working among them.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Testimonies naturally flowed from the times of prayer as God answered those prayers and brought a change in people’s hearts, emotions, mentalities, attitudes or bodies. Once delivered, people couldn’t help but testify to what God had done for them which spurred on more prayer, more testimonies and more praise.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Praise is the third element that I saw emphasized. How could one not praise God after being touched by Him and experiencing His presence? How could people not lift their voices in praise and worship after hearing testimony after testimony of God’s power working in people? How could a symphony of praise not be raised as so many bask in the loving presence of God?&amp;nbsp; Scripture says that God inhabits the praise of his people so with God so very present, praise to Him is a natural response, while lifting our praises draws God closer and more intimately involved.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;These three: prayer, testimony and praise seemed to feed off each other and result in them all continuing as God worked miracles in the lives of the worshipers. These are what I noticed as prominent during the time I was there, though undoubtedly, other elements or acts may have been more prominent at other times. Additionally, while I saw prayer, testimony and praise seemingly causing the continuation of the Asbury Outpouring, I don’t suggest that emphasizing those three in another setting would bring the same results. God will move when and where he determines, but there is another essential element.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;As my pastor and I were talking about what was happening at Asbury, he pointed out that God may be willing to move in our presence and pour out his spirit, giving us revival, but unless we are open to Him and ready and willing to receive Him in a greater measure -with all that comes with it- God will pass us over and move to another group who is ready and willing to receive what He has for them.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;For those at Asbury, they were prepared through prayer, desperate enough to seek God’s face, and willing to allow God to do His work in their lives, so God came in a miraculous way…so much so that we are still talking about it today.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Since so many people were coming to Wilmore, Kentucky hoping to experience what they had been hearing about God doing, Hughes Chapel, though very large, could not accommodate everyone. Even after opening the chapels across the street at the Seminary for overflow and streaming from Hughes, then later other venues, the lines of people waiting to get in were as long as two miles, with people waiting several hours in the slow-moving line, hoping to get in. But unlike what you would see at an amusement park, secular concert, or in just about any other line you may find yourself, there was no complaining, no arguing, no unruliness, and very few pieces of trash left behind. Instead, you found people joyful and smiling, talking to those in line with them, learning about each other and making new friends. Prayer was common as people shared why they came to Asbury and the hurts or burdens they carried. Sometimes, there would be a sojourner with their guitar, pulling it out to lead an impromptu time of praise. You would often see groups huddled around a Bible, learning a new truth or being encouraged by God’s Word.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignleft size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_122518070_hdr-square.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;258&quot; data-attachment-id=&quot;4426&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230219_122518070_hdr-square/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_122518070_hdr-square.jpg&quot; data-orig-size=&quot;4118,3542&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;1.7&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676809523&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;4.852&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;100&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.00059488399762046&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;latitude&amp;quot;:&amp;quot;37.86415&amp;quot;,&amp;quot;longitude&amp;quot;:&amp;quot;-84.661350972222&amp;quot;}&quot; data-image-title=&quot;IMG_20230219_122518070_HDR-square&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_122518070_hdr-square.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_122518070_hdr-square.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_122518070_hdr-square.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4426&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_122518070_hdr-square.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_122518070_hdr-square.jpg?w=600 600w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_122518070_hdr-square.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;While Holly waited nearly five hours in line on Saturday, she prayed for people and other people prayed for her. She enjoyed the company of others seeking the same experience of God’s refining presence. She commented that because of the time spent with those around her in line, it didn’t seem like as long as it was that she waited to get close to Hughes Chapel.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;While I was waiting in the line for Hughes on Sunday, I connected with the group of people around me and learned one was from a town in Ohio where we had considered retiring to. I mentioned that there was a Church of the Nazarene in that town, and she said, “I know, my mother attends there!” It seemed like God was at work.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;I got to know Jeff a little bit. He was from Kissimmee, Florida and had traveled to his son’s home in Cleveland Tennessee the night before. He mentioned his son, A.J. who was not a Christian, then Alan suggested we pray for him, so we gathered around Jeff and prayed for him and his son A.J. God was at work in that line.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignright size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_124534753_hdr.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;225&quot; data-attachment-id=&quot;4425&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230219_124534753_hdr/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_124534753_hdr.jpg&quot; data-orig-size=&quot;2304,1728&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;2.2&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676810735&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;3.748&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;100&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.00092165898617512&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;latitude&amp;quot;:&amp;quot;37.86417&amp;quot;,&amp;quot;longitude&amp;quot;:&amp;quot;-84.661124972222&amp;quot;}&quot; data-image-title=&quot;IMG_20230219_124534753_HDR&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_124534753_hdr.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_124534753_hdr.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_124534753_hdr.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4425&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_124534753_hdr.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_124534753_hdr.jpg?w=600 600w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_124534753_hdr.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I discovered that Alan had been a Religious Program Specialist (which is like a Chaplain Assistant in the Army) in the Navy for eight years, giving us that in common since I was a chaplain assistant in the ‘80s and then later served as a chaplain. We continued to talk about all sorts of things as the line worked its way through campus to the chapel. It felt like God was blessing us even before we got to the there.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Holly and I talked to another lady who had driven there from Florida. We mentioned we were from West Virginia and she told us about a little town in West Virginia where back about 2017 the high school students started praying for the school and the community, and it was doing something. She told us she told her husband she had to go and pray with them so traveled to that small town in West Virginia. I asked her what town it was and she couldn’t remember the name. She thought for a bit and said, it started with an “L.” I said, was it “Logan”? She exclaimed, “Yes, that’s it!” then we told her we were from Logan. God seemed to being showing us that He brings us together from all over, and shows us ways we are connected through Him.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Finally, there was a group of three or four ladies that wandered up to two women who were in line in front of us and greeted them, obviously being friends. They asked if we mind if they jumped in with them and immediately Alan said it was fine. I looked at him and jokingly said that he didn’t give me time to tell them how much it would cost them. To this, one of the ladies said, we don’t have much to offer but we could pray for you! as we laughed a bit at the exchange. But then I said, “well if you really want to pray, you could pray for my daughter.” She then got very serious and asked how she could pray. I told her that I brought her to Asbury so that she could experience God in a greater way; so she could see young people on fire for God. I said that she was with my wife now in Estes Chapel and I hoped that God would touch them. This prayer warrior asked a few more questions about them then she, and the ladies with her, and Alan, began to pray for my wife and daughter, and they prayed hard, asking God to do things for them, seemingly knowing more of their needs than I had shared. &amp;nbsp;God was proving himself to be faithful to put people in our lives -even while waiting in line to worship- who we needed to encounter, even if just for encouragement or prayer.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;SUNDAY WE RECEIVED WHAT WE CAME FOR!&lt;/p&gt;
+
+
+
+&lt;p&gt;Now back to where I left off earlier. After leaving Asbury blessed but somewhat discouraged, we spent the night at a hotel about 45 minutes from Wilmore, ready to finish the remaining nearly 3 hours home Sunday morning, or maybe after church if we could find a local Church of the Nazarene. When Holly and I got up, Holly said that she felt like we needed to go back to the Asbury Outpouring, that we weren&amp;#8217;t finished, or rather that God wasn’t finished. How could I disagree? So we ate a little breakfast and headed back to Wilmore. We were ahead of where we were on Saturday so were hoping we would be farther up in the line and maybe get into Hughes Chapel this time, but then we thought with it being the weekend, more people may be coming and probably getting there early, so it may be more difficult than the day before. Either way, we decided we would just do what we could and experience what we could, hoping that God would meet us there in a more pronounced way.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignleft size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_112226956-square.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;261&quot; data-attachment-id=&quot;4427&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230219_112226956-square/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_112226956-square.jpg&quot; data-orig-size=&quot;2958,2576&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;1.7&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676805750&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;4.852&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;100&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.0005524861878453&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;latitude&amp;quot;:&amp;quot;37.891703972222&amp;quot;,&amp;quot;longitude&amp;quot;:&amp;quot;-84.637268&amp;quot;}&quot; data-image-title=&quot;IMG_20230219_112226956-square&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_112226956-square.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_112226956-square.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_112226956-square.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4427&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_112226956-square.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_112226956-square.jpg?w=600 600w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_112226956-square.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;As we got a couple miles from Wilmore the traffic suddenly slowed to a craw and I feared the worse, that the multitudes were flooding in and the traffic was backed up that far. Fortunately, it was just a brief stop as a State Trooper asked if were going to the revival then directed us a different direction instead of through town, which led us onto campus and to a parking lot which was actually better than where we parked the day before. As we walked toward the chapel and saw that the line to Hughes wasn’t to where it was the day before. We decided to walk around to the front of the chapel first to check things out. When we got there, we noticed the line to Estes Chapel was very short, much shorter than it was Saturday when it took me about an hour and a half to get in. We decided that Holly and Heidi would get in the line for Estes Chapel and I would go get in the line for Hughes then we could communicate and see what we would do. As it approached 1:00, when they opened the doors and began the music, we decided I would stay in the Hughes line and see how quickly it moved. If I got close, I would text Holly and they would come and join me…while Holly and Heidi went into Estes, getting in right away when they opened the doors. As they approached the front of the sanctuary, Holly noticed a beam of light shining down on a particular pew and it looked like God showing them to their seat!&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;I continued in the line and had the interactions with the other people around me which I mentioned before, with Jeff, Alan, and the others. About 10 to 15 minutes after the women joined the two other women in front of us and prayed for Holly and Heidi, Holly texted and said they were looking for me. I told them where I was and they were soon walking up to me all smiles. As they got closer, I could see they had been crying. The first thing Holly said to me was “We got what we came for!” They had experienced God’s presence in that wonderful way that we were craving! While sitting in Estes Chapel, Holly suggested to Heidi that they go to the altar to pray for one of Heidi’s friends she was concerned about and about our unsaved family members. Once at the altar, God really came! A man prayed with Heidi and was divinely intuitive, leading her into a wonderful experience with God. Holly described her own experience as being a time of refreshing, refilling and renewal, just what she needed and was longing for. I hugged them both, excited that they received what we came for and was so glad that we went back to Asbury instead of settling for what we got on Saturday and going home.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignleft size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_142733672_hdr.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;168&quot; data-attachment-id=&quot;4423&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/img_20230219_142733672_hdr/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_142733672_hdr.jpg&quot; data-orig-size=&quot;8000,4500&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;1.7&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;motorola one 5G UW ace&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;1676816856&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;4.852&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;100&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0.00049825610363727&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;1&amp;quot;,&amp;quot;latitude&amp;quot;:&amp;quot;37.863615&amp;quot;,&amp;quot;longitude&amp;quot;:&amp;quot;-84.660972972222&amp;quot;}&quot; data-image-title=&quot;IMG_20230219_142733672_HDR&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_142733672_hdr.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_142733672_hdr.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_142733672_hdr.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4423&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_142733672_hdr.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_142733672_hdr.jpg?w=597 597w, https://daryldensford.com/wp-content/uploads/2023/02/img_20230219_142733672_hdr.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Now, listen to this: Remembering that the ladies who cut in front of us in the line had prayed really hard for Heidi and Holly, I asked Holly about how long ago God came to them, and she said about 10 or 15 minutes. Tears began to come to my eyes as I realized that was the same time our serendipitous meeting with the women in front of us led to our praying fervently for Holly and Heidi. I introduced Heidi to the lady who led the prayer for her and Holly told her just as she was praying for them, God answered her prayers and touched them. Tears then began to stream down her face as well, as she saw the part she played, listening to God and being obedient. The three ladies then prayed for Heidi more, and for Holly and me as her parents, they gave Heidi an enormous amount of wise and godly counsel and encouragement and even shared what they saw as possibly her future in God’s hands…as all of us cried and praised God for his faithfulness to honor our desperation and meet our needs.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;MONDAY WAS ANOTHER DAY OF BLESSINGS&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignright size-medium&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;158&quot; data-attachment-id=&quot;4451&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/camping/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/camping.jpg&quot; data-orig-size=&quot;1597,845&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}&quot; data-image-title=&quot;camping&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/camping.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/camping.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/camping.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4451&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/camping.jpg?w=300 300w, https://daryldensford.com/wp-content/uploads/2023/02/camping.jpg?w=597 597w, https://daryldensford.com/wp-content/uploads/2023/02/camping.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;We were all excited at what God had done for us. Heidi wanted to stay, or come back and told her older sister, Julia, that she had to go back to Asbury University with her to experience what she had. So, my two youngest daughters, Julia and Heidi, headed out on Monday morning with their camping gear to experience God at the Asbury Outpouring. They got into the area in time to set up their tent before going to the campus. They got to Asbury a couple hours before the 7:30 start time and finally got in and really enjoyed it. They became concerned about staying there while others were outside waiting to get in, but Holly had talked about &amp;#8220;being selfish for God&amp;#8221; and they wanted to experience more of Him so they stayed a bit longer. Their time there was likely more significant than Holly&amp;#8217;s and Heidi&amp;#8217;s the day before at Estes Chapel, I think because it was mainly students there at this service. God moved through the singing, the praying and the testimonies and my girls were touched again! &lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;They called us later that night after they left and Julia testified to rededicating her life to God. They talked about bringing that excitement back to Logan so God can work there as he has been at Asbury. I am excited about the future and have a lot of confidence in my kids, and all of those young people who have been seeking God at Asbury and the other campuses where the revival has spread. It looks like God is passing on the &lt;em&gt;Church&lt;/em&gt; to the next generation to take his Good News to the world. This new Church may not be what we&amp;#8217;re used to, but as God continues to pour out His Spirit on this generation, it will be the Church that God wants for us, and the Church we need in these days.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;So, call it what you will: an “outpouring” a “visitation” a “revival” or even a “scam” but beyond the testimonies and movement of God that we personally witnessed, we can testify to his moving on us and answering our deepest prayers. He met us where we were, realizing that He doesn’t dwell only in Wilmore, Kentucky at Asbury University, but that’s where we were on Sunday and Monday, and that’s where he met us. Praise God for his mercy and grace, praise Him for his love and care. Praise God that he came to us at Asbury University.&lt;/p&gt;
+
+
+&lt;div class=&quot;wp-block-image&quot;&gt;
+&lt;figure class=&quot;alignright size-medium&quot;&gt;&lt;a href=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330903948_1236943850580115_5859000284579426214_n.jpg&quot; target=&quot;_blank&quot; rel=&quot; noreferrer noopener&quot;&gt;&lt;img loading=&quot;lazy&quot; width=&quot;300&quot; height=&quot;168&quot; data-attachment-id=&quot;4436&quot; data-permalink=&quot;https://daryldensford.com/2023/02/20/my-experience-at-the-asbury-outpouring/330903948_1236943850580115_5859000284579426214_n/&quot; data-orig-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330903948_1236943850580115_5859000284579426214_n.jpg&quot; data-orig-size=&quot;2048,1153&quot; data-comments-opened=&quot;1&quot; data-image-meta=&quot;{&amp;quot;aperture&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;credit&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;camera&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;caption&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;created_timestamp&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;copyright&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;focal_length&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;iso&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;shutter_speed&amp;quot;:&amp;quot;0&amp;quot;,&amp;quot;title&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;orientation&amp;quot;:&amp;quot;0&amp;quot;}&quot; data-image-title=&quot;330903948_1236943850580115_5859000284579426214_n&quot; data-image-description=&quot;&quot; data-image-caption=&quot;&quot; data-medium-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330903948_1236943850580115_5859000284579426214_n.jpg?w=300&quot; data-large-file=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330903948_1236943850580115_5859000284579426214_n.jpg?w=560&quot; src=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330903948_1236943850580115_5859000284579426214_n.jpg?w=300&quot; alt=&quot;&quot; class=&quot;wp-image-4436&quot; srcset=&quot;https://daryldensford.com/wp-content/uploads/2023/02/330903948_1236943850580115_5859000284579426214_n.jpg?w=298 298w, https://daryldensford.com/wp-content/uploads/2023/02/330903948_1236943850580115_5859000284579426214_n.jpg?w=597 597w, https://daryldensford.com/wp-content/uploads/2023/02/330903948_1236943850580115_5859000284579426214_n.jpg?w=150 150w&quot; sizes=&quot;(max-width: 300px) 100vw, 300px&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;
+
+
+&lt;p&gt;But I also praise him for his omnipresence. We know that God is anywhere present and just as he visited his spirit upon us and so many others at Asbury University in Wilmore, Kentucky He can do the same anywhere there are people who are desperate for Him, who call out to him in prayer and are willing to repent and receive all that he has for them, including the change he&amp;#8217;ll make in their lives. I pray that God&amp;#8217;s &amp;#8220;outpouring&amp;#8221; that began at Asbury February 8th  and has spread to so many other schools and churches across the country will continue to impact peoples lives in ways that will make a mark in history as a turning point in the morality and religious fervor of the United States. That in years to come, people will look back at the Revival of 2023 as the movement that saved our country for moral decay, our churches from irrelevance and ourselves from a shallow, powerless existence!&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;(You can watch this on YouTube with more pictures and video here: &lt;a href=&quot;https://youtu.be/hFqwPuCJYms&quot; rel=&quot;nofollow&quot;&gt;https://youtu.be/hFqwPuCJYms&lt;/a&gt; )&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p class=&quot;has-white-color has-text-color&quot;&gt;.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Image Credits:&lt;/p&gt;
+
+
+
+&lt;p&gt;Image in of Hughes Chapel with beam of light by Sarah Thomas Baldwin via Facebook&lt;/p&gt;
+
+
+
+&lt;p&gt;Image of people at the altar praying, by Unknown via Facebook&lt;/p&gt;
+
+
+
+&lt;p&gt;Image of  musicians on stage by Unknown via Facebook&lt;/p&gt;
+
+
+
+&lt;p&gt;All other images by author&lt;/p&gt;
+</content:encoded>
+        </item>
+    </channel>
+</rss>
