@@ -103,3 +103,5 @@ async function updateHTML(htmlPath = page) {
 updateHTML()
     .then(() => console.log('Updated RSS section!'))
     .catch(console.error);
+
+module.exports = { updateHTML };

@@ -4,9 +4,9 @@
         <description><![CDATA[A combined feed of all the sites on the Densford network.]]></description>
         <link>https://densford.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 12 Dec 2025 23:23:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Dec 2025 20:57:46 GMT</lastBuildDate>
         <atom:link href="https://densford.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 12 Dec 2025 23:23:08 GMT</pubDate>
+        <pubDate>Sat, 13 Dec 2025 20:57:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
