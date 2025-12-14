@@ -2,14 +2,20 @@ const cheerio = require('cheerio');
 const fs = require('fs/promises');
 const page = 'index.html';
 const favicons = [
-    '🫂', '💅🏼', '🧙🏼‍♂️', '🐌', '🐐', '🐑', '🦔', '🐲', '🍄', '🍣',
-    '🧋', '🍔', '🍙', '🥞', '🏋️‍♀️', '🎮', '🎲', '🛰', '🚀', '🕹', 
-    '📺', '🪔', '⚔️', '🔭', '📚', '📖', '✒️', '🫟', '🫜', '❤️‍🔥',
-    '🕷️', '💩', '🫀',
+    daryl = ['🍔', '⛪', '✝️', '📚'], // dad (picked by me)
+    hannah = ['💩', '🫀', '🦖'], // hannah (dino by me)
+    heidi = ['💅🏼', '🧋', '🍣'], // heidi (picked by me)
+    holly = ['🐎', '🐴', '🐐'], // mom (goat picked by me)
+    jacob = ['🐌', '🍄', '🎮', '🛰', '🚀', '🕹', '⚔️', '🔭', '✒️'], // me
+    jamie = ['☕', '🛡️', '🎖️'], //picked by me
+    jonathan = ['🤖', '🌱', '🐈'], //picked by me
+    julia = ['❤️‍🔥', '🕷️', '🏋️‍♀️'], // julia (lift picked by me)
+    sai = ['🐑', '🦔', '🍙', '🥞'],  // sai (picked by me)
 ];
 
 async function setFavicon(options = favicons, htmlPath = page) {
-    const icon = options[Math.floor(Math.random() * options.length)];
+    const user = options[Math.floor(Math.random() * options.length)]
+    const icon = user[Math.floor(Math.random() * user.length)];
     const html = await fs.readFile(htmlPath, 'utf-8');
     const $ = cheerio.load(html);
     const svg = `
