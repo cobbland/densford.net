@@ -8,6 +8,7 @@ const feeds = [
     'https://daryldensford.com/feed/',
     'https://cobb.land/feed.xml',
     'https://blog.saisarida.com/feed.xml',
+    'https://julia.densford.net/feed.xml',
     // 'https://jacobdensford.com/feed.xml',
 ];
 const authors = {
@@ -15,6 +16,7 @@ const authors = {
     "jacobdensford.com": "Jacob",
     "cobb.land": "Jacob (as Cobb)",
     "blog.saisarida.com": "Sai",
+    "julia.densford.net": "Julia",
 };
 
 function extractDomain(url) {

@@ -4,11 +4,21 @@
         <description><![CDATA[A combined feed of all the sites on the Densford network.]]></description>
         <link>https://densford.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 16 Dec 2025 16:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 20:36:34 GMT</lastBuildDate>
         <atom:link href="https://densford.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 16 Dec 2025 16:26:04 GMT</pubDate>
+        <pubDate>Tue, 16 Dec 2025 20:36:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Moving (Digital) House]]></title>
+            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
+            <link>https://cobb.land/posts/moving-digital-house/</link>
+            <guid isPermaLink="true">https://cobb.land/posts/moving-digital-house/</guid>
+            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
+            <pubDate>Tue, 16 Dec 2025 22:00:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;I&apos;m in the process of turning my old website (if you know, you know) into my more professional home on the &apos;net. To that end, and during that process, I&apos;ve brought over all my old blog posts to this site. (I apologize for the RSS feed deluge anyone may have experienced.)&lt;/p&gt;
+</content:encoded>
+        </item>
         <item>
             <title><![CDATA[Bookmark of Mari Lwyd’s Pantri Panic Launched]]></title>
             <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
@@ -27,16 +37,6 @@
             <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
             <pubDate>Wed, 10 Dec 2025 19:45:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Robert shares two great tools here (in addition to his beautiful vision of the internet): &lt;a href=&quot;https://github.com/robalexdev/blog-quest&quot;&gt;Blog Quest&lt;/a&gt; (for finding RSS feeds as you browse the web) and &lt;a href=&quot;https://streetpass.social&quot;&gt;StreetPass&lt;/a&gt; (the same but for finding Mastodon profiles). I&apos;ve already installed them both.&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Let It Snow]]></title>
-            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
-            <link>https://cobb.land/posts/let-it-snow/</link>
-            <guid isPermaLink="true">https://cobb.land/posts/let-it-snow/</guid>
-            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 17:30:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;With a winter weather advisory in effect here in the foodhills of Appalachia, I&apos;m feeling pretty festive. So, inspired by &lt;a href=&quot;https://blog.gridranger.dev/snowfall/&quot;&gt;Dávid&apos;s Snowfall post&lt;/a&gt; (and using most of &lt;a href=&quot;https://framagit.org/gridranger/gridranger.frama.io/-/snippets/7593&quot;&gt;his code&lt;/a&gt;), I added falling snow to this website.&lt;/p&gt;
 </content:encoded>
         </item>
         <item>
