@@ -4,37 +4,37 @@
         <description><![CDATA[A combined feed of all the sites on the Densford network.]]></description>
         <link>https://densford.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Dec 2025 17:05:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 16:26:04 GMT</lastBuildDate>
         <atom:link href="https://densford.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Dec 2025 17:05:23 GMT</pubDate>
+        <pubDate>Tue, 16 Dec 2025 16:26:04 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
             <title><![CDATA[Bookmark of Mari Lwyd’s Pantri Panic Launched]]></title>
-            <description><![CDATA[A post by Cobb from cobb.land]]></description>
+            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
             <link>https://cobb.land/posts/bookmarks/mari-lwyds-pantri-panic-launched/</link>
             <guid isPermaLink="true">https://cobb.land/posts/bookmarks/mari-lwyds-pantri-panic-launched/</guid>
-            <dc:creator><![CDATA[Cobb]]></dc:creator>
+            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
             <pubDate>Wed, 10 Dec 2025 22:05:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;You know I had to load &lt;a href=&quot;https://rhyswynne.itch.io/mari-lwyds-pantri-panic&quot;&gt;this puppy&lt;/a&gt; up on my Miyoo Mini Plus for some festive holiday fun! (So what if my high score is currently only nine hundred something—I&apos;m still getting the hang of it.)&lt;/p&gt;
 </content:encoded>
         </item>
         <item>
             <title><![CDATA[Bookmark of Discovering the indieweb with calm tech]]></title>
-            <description><![CDATA[A post by Cobb from cobb.land]]></description>
+            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
             <link>https://cobb.land/posts/bookmarks/discovering-the-indieweb-with-calm-tech/</link>
             <guid isPermaLink="true">https://cobb.land/posts/bookmarks/discovering-the-indieweb-with-calm-tech/</guid>
-            <dc:creator><![CDATA[Cobb]]></dc:creator>
+            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
             <pubDate>Wed, 10 Dec 2025 19:45:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;Robert shares two great tools here (in addition to his beautiful vision of the internet): &lt;a href=&quot;https://github.com/robalexdev/blog-quest&quot;&gt;Blog Quest&lt;/a&gt; (for finding RSS feeds as you browse the web) and &lt;a href=&quot;https://streetpass.social&quot;&gt;StreetPass&lt;/a&gt; (the same but for finding Mastodon profiles). I&apos;ve already installed them both.&lt;/p&gt;
 </content:encoded>
         </item>
         <item>
             <title><![CDATA[Let It Snow]]></title>
-            <description><![CDATA[A post by Cobb from cobb.land]]></description>
+            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
             <link>https://cobb.land/posts/let-it-snow/</link>
             <guid isPermaLink="true">https://cobb.land/posts/let-it-snow/</guid>
-            <dc:creator><![CDATA[Cobb]]></dc:creator>
+            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
             <pubDate>Thu, 04 Dec 2025 17:30:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;With a winter weather advisory in effect here in the foodhills of Appalachia, I&apos;m feeling pretty festive. So, inspired by &lt;a href=&quot;https://blog.gridranger.dev/snowfall/&quot;&gt;Dávid&apos;s Snowfall post&lt;/a&gt; (and using most of &lt;a href=&quot;https://framagit.org/gridranger/gridranger.frama.io/-/snippets/7593&quot;&gt;his code&lt;/a&gt;), I added falling snow to this website.&lt;/p&gt;
 </content:encoded>
@@ -72,17 +72,6 @@
             <content:encoded>&lt;p&gt;Hello there. Here I am in my 30s writing my first blog post EVER (better late than never, right?). My name is Sai and I&amp;rsquo;m from Bangkok, Thailand. My blog is called oatmilk because I&amp;rsquo;m lactose intolerant. And here&amp;rsquo;s a picture of me on expired film.&lt;/p&gt;
 &lt;img src=&quot;https://blog.saisarida.com/uploads/2025/8f90162a68.jpg&quot; width=&quot;397&quot; height=&quot;600&quot; alt=&quot;&quot;&gt;
 </content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Webmentions]]></title>
-            <description><![CDATA[A post by Jacob from  Jacob Densford]]></description>
-            <link>https://blog.jacobdensford.com/webmentions</link>
-            <guid isPermaLink="true">https://blog.jacobdensford.com/webmentions</guid>
-            <dc:creator><![CDATA[Jacob]]></dc:creator>
-            <pubDate>Thu, 24 Jul 2025 22:05:06 GMT</pubDate>
-            <content:encoded>  
-&lt;p&gt;&lt;span class=&quot;firstletter&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;firstwords&quot;&gt;his post is here to test&lt;/span&gt; the webmentions setup on my other website. Feel free to ignore it! (Or follow the link to my new site—the choice is yours.)&lt;/p&gt;
-&lt;p&gt;I’m linking to my latest (and only, at the time of writing) post: &lt;a href=&quot;https://cobb.land/blog/hello-world/&quot;&gt;Hello World&lt;/a&gt;. Nice post, self!&lt;/p&gt;  </content:encoded>
         </item>
         <item>
             <title><![CDATA[Can’t We Bomb the World into Peace?]]></title>
@@ -144,60 +133,6 @@
 
 &lt;p&gt;&lt;/p&gt;
 </content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[What Child is This]]></title>
-            <description><![CDATA[A post by Jacob from  Jacob Densford]]></description>
-            <link>https://blog.jacobdensford.com/what-child-is-this</link>
-            <guid isPermaLink="true">https://blog.jacobdensford.com/what-child-is-this</guid>
-            <dc:creator><![CDATA[Jacob]]></dc:creator>
-            <pubDate>Sat, 30 Nov 2024 05:00:00 GMT</pubDate>
-            <content:encoded>  
-&lt;p&gt;&lt;span class=&quot;firstletter&quot;&gt;R&lt;/span&gt;&lt;span class=&quot;firstwords&quot;&gt;an the first&lt;/span&gt; (of two or three) session(s) of Nate Treme’s holiday classic, &lt;a href=&quot;https://natetreme.itch.io/whatchild&quot;&gt;What Child is This&lt;/a&gt;, using my&lt;span class=&quot;push-double&quot;&gt;&lt;/span&gt; &lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;foldie” game, &lt;a href=&quot;https://illuminatedsnail.itch.io/peasant&quot;&gt;Peasant&lt;/a&gt;, for my three sisters and my wife.&lt;/p&gt;
-&lt;p&gt;I started the party right outside the dungeon in the north west of the hex map—the Tomb of the Owl Lord. They delved in, killed the giant roaches, and descended through the well of illusory sludge with a rope.&lt;/p&gt;
-&lt;p&gt;In the chamber below, they encountered my first change to the original adventure: I made the cultist into an evil Santa type figure. I also downgraded the spined devil to a second imp. They killed Santa, but not before one of the imps killed one of them. After donning his festive robe, the two devils obeyed a command to slaughter themselves upon the door leading down into the tomb proper, which unlocked it.&lt;/p&gt;
-&lt;p&gt;Below, they looted all the treasures from the sarcophagus. Then headed back up, stopping to explore the final room. The carpet ghost was annoyed by all the dust, but was appeased after they cleaned the carpet, telling them they could have it—I changed it into a &lt;em&gt;carpet of traveling&lt;/em&gt;, which can’t fly but can scoot along the ground at a brisk walking pace.&lt;/p&gt;
-&lt;p&gt;Outside, it was night. A random encounter roll had them meet the three wise men characters. Stars rained from the sky. One particular blue star descended about a dozen miles to the south. They set out together to see what they could see.&lt;/p&gt;
-&lt;p&gt;That’s where we ended it, to be continued when I visit for Christmas. Everyone enjoyed the adventure and Peasant worked out pretty well.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.blot.im/blog_1a99798b75eb45b680ec3403058453cf/_image_cache/7c712951-5af2-4e20-8bc1-40495a03c30d.png&quot; width=&quot;400&quot; height=&quot;666&quot; data-action=&quot;zoom&quot;&gt;&lt;/p&gt;  </content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Fancy initial letter]]></title>
-            <description><![CDATA[A post by Jacob from  Jacob Densford]]></description>
-            <link>https://blog.jacobdensford.com/fancy-initial-letter</link>
-            <guid isPermaLink="true">https://blog.jacobdensford.com/fancy-initial-letter</guid>
-            <dc:creator><![CDATA[Jacob]]></dc:creator>
-            <pubDate>Sat, 16 Nov 2024 05:00:00 GMT</pubDate>
-            <content:encoded>  
-&lt;p&gt;&lt;span class=&quot;firstletter&quot;&gt;I&lt;/span&gt; &lt;span class=&quot;firstwords&quot;&gt;was browsing &lt;a href=&quot;https://www.foliosociety.com/&quot;&gt;The Folio Society’s&lt;/a&gt;&lt;/span&gt; website yesterday, as I am wont to do. Don’t worry for me—I’m not at great risk of spending money because those books are just too dang expensive. But, man, do I want some (read: all) of them.&lt;/p&gt;
-&lt;p&gt;Among the many books that caught my eye—a &lt;a href=&quot;https://www.foliosociety.com/usa/the-lord-of-the-rings.html&quot;&gt;LotR&lt;/a&gt; boxed set (and &lt;a href=&quot;https://www.foliosociety.com/usa/the-hobbit.html&quot;&gt;accompanying&lt;/a&gt; &lt;a href=&quot;https://www.foliosociety.com/usa/the-silmarillion.html&quot;&gt;books&lt;/a&gt;), a &lt;a href=&quot;https://www.foliosociety.com/usa/the-dune-collection.html&quot;&gt;Dune collection&lt;/a&gt; (because I really need another one of those), and all the &lt;a href=&quot;https://www.foliosociety.com/usa/books-of-earthsea.html&quot;&gt;books of Earthsea&lt;/a&gt;&lt;span class=&quot;small-caps&quot;&gt;—I&lt;/span&gt; spotted their &lt;a href=&quot;https://www.foliosociety.com/usa/the-book-of-the-new-sun-2-volume.html&quot;&gt;two-volume edition&lt;/a&gt; of &lt;em&gt;The Book of the New Sun&lt;/em&gt;. Seeing the layout within its pages sent me on a typographic journey. I had to know: What is that big letter at the beginning of a chapter called? And, more importantly, how do I have that on my website?&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.blot.im/blog_1a99798b75eb45b680ec3403058453cf/_image_cache/4797f449-5156-4ed8-9706-279072aa37b2.jpg&quot; alt=&quot;Mm, look at that initial.&quot; width=&quot;1200&quot; height=&quot;1200&quot; data-action=&quot;zoom&quot;&gt;&lt;span class=&quot;caption&quot;&gt;Mm, look at that initial.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;It turns out, its called an &lt;a href=&quot;https://en.wikipedia.org/wiki/Initial&quot;&gt;initial&lt;/a&gt; (or an initia, if we’re talking about illuminated manuscripts, apparently). An initial is a letter at the beginning of a paragraph that’s larger than the rest of the text. And I &lt;em&gt;think&lt;/em&gt; the particular style of initial in question is a drop cap illustrated initial.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://cdn.blot.im/blog_1a99798b75eb45b680ec3403058453cf/_image_cache/d8de0af2-3504-4fc3-92c9-467d4153c1e4.svg&quot; alt=&quot;Delamotte, F.: “Ornamental Alphabets, Ancient and Mediæval” (1879)&quot; width=&quot;1000&quot; height=&quot;486&quot; data-action=&quot;zoom&quot;&gt;&lt;span class=&quot;caption&quot;&gt;Delamotte, F.: “Ornamental Alphabets, Ancient and Mediæval” (1879)&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;There are a variety of ways to add initials to website text. I read a few articles and followed a couple tutorials&lt;a href=&quot;#footnote-1J6Z&quot; class=&quot;footnote-ref&quot; id=&quot;ref-1J6Z&quot; role=&quot;doc-noteref&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;, messing around with some of the more modern ways, but deciding to go with the most compatible route in the end. (Mostly because my site’s current &lt;span class=&quot;small-caps&quot;&gt;HTML&lt;/span&gt; and &lt;span class=&quot;small-caps&quot;&gt;CSS&lt;/span&gt; is a mess, and because &lt;code&gt;initial-letter&lt;/code&gt; isn’t supported by my preferred browser.)&lt;/p&gt;
-&lt;p&gt;Here is the &lt;span class=&quot;small-caps&quot;&gt;HTML&lt;/span&gt; I’ve added to my blog post template:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;hljs html&quot;&gt;&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;&lt;span class=&quot;hljs-name&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;hljs-attr&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;hljs-string&quot;&gt;&quot;firstletter&quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;X&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;/&lt;span class=&quot;hljs-name&quot;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;&lt;span class=&quot;hljs-name&quot;&gt;span&lt;/span&gt; &lt;span class=&quot;hljs-attr&quot;&gt;class&lt;/span&gt;=&lt;span class=&quot;hljs-string&quot;&gt;&quot;firstwords&quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;xxxx xxxxx xxxxx xxxxx xxxxx&lt;span class=&quot;hljs-tag&quot;&gt;&amp;lt;/&lt;span class=&quot;hljs-name&quot;&gt;span&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;And here is the &lt;span class=&quot;small-caps&quot;&gt;CSS&lt;/span&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code class=&quot;hljs css&quot;&gt;&lt;span class=&quot;hljs-selector-class&quot;&gt;.firstletter&lt;/span&gt; {
-  &lt;span class=&quot;hljs-attribute&quot;&gt;color&lt;/span&gt;: &lt;span class=&quot;hljs-built_in&quot;&gt;rgb&lt;/span&gt;(&lt;span class=&quot;hljs-number&quot;&gt;209&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot;&gt;77&lt;/span&gt;, &lt;span class=&quot;hljs-number&quot;&gt;65&lt;/span&gt;);
-  &lt;span class=&quot;hljs-attribute&quot;&gt;float&lt;/span&gt;: left;
-  &lt;span class=&quot;hljs-attribute&quot;&gt;font-family&lt;/span&gt;: &lt;span class=&quot;hljs-string&quot;&gt;&apos;Typographer Woodcut Initials&apos;&lt;/span&gt;;
-  &lt;span class=&quot;hljs-attribute&quot;&gt;font-size&lt;/span&gt;: &lt;span class=&quot;hljs-number&quot;&gt;75px&lt;/span&gt;;
-  &lt;span class=&quot;hljs-attribute&quot;&gt;line-height&lt;/span&gt;: &lt;span class=&quot;hljs-number&quot;&gt;1&lt;/span&gt;;
-  &lt;span class=&quot;hljs-attribute&quot;&gt;padding-top&lt;/span&gt;: &lt;span class=&quot;hljs-number&quot;&gt;4px&lt;/span&gt;;
-  &lt;span class=&quot;hljs-attribute&quot;&gt;padding-right&lt;/span&gt;: &lt;span class=&quot;hljs-number&quot;&gt;8px&lt;/span&gt;;
-}
-
-&lt;span class=&quot;hljs-selector-class&quot;&gt;.firstwords&lt;/span&gt; {
-  &lt;span class=&quot;hljs-attribute&quot;&gt;font-variant&lt;/span&gt;: small-caps;
-}&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;I have no doubt smarter folks than me could come up with better ways of doing this, but I’m pretty happy with what I managed to accomplish. (At least, until I get the website redesign itch again—it’s coming!)&lt;/p&gt;
-&lt;section id=&quot;footnotes&quot; class=&quot;footnotes footnotes-end-of-document&quot; role=&quot;doc-endnotes&quot;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&quot;footnote-1J6Z&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://thegymnasium.com/courses/take5/creating-beautiful-and-accessible-drop-caps&quot;&gt;&lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;Creating Beautiful and Accessible Drop Caps”&lt;/a&gt;, &lt;a href=&quot;https://css-tricks.com/snippets/css/drop-caps/&quot;&gt;&lt;span class=&quot;push-double&quot;&gt;&lt;/span&gt;&lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;Drop Caps”&lt;/a&gt;, &lt;a href=&quot;https://product.voxmedia.com/2019/6/17/18524029/the-ballad-of-drop-caps-and-design-systems&quot;&gt;&lt;span class=&quot;push-double&quot;&gt;&lt;/span&gt;&lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;Drop caps &amp;amp; design systems”&lt;/a&gt;, &lt;a href=&quot;https://rwt.io/typography-tips/drop-caps-styling-initial-letter&quot;&gt;&lt;span class=&quot;push-double&quot;&gt;&lt;/span&gt;&lt;span class=&quot;pull-double&quot;&gt;“&lt;/span&gt;Drop caps (styling the initial letter)”&lt;/a&gt;&lt;a href=&quot;#ref-1J6Z&quot; class=&quot;footnote-back&quot; role=&quot;doc-backlink&quot;&gt;&lt;span class=&quot;small-caps&quot;&gt;↩︎&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;  </content:encoded>
         </item>
         <item>
             <title><![CDATA[How Can You Be a Christian and Vote for…]]></title>

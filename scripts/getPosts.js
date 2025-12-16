@@ -6,14 +6,14 @@ const parser = new Parser;
 const page = 'index.html';
 const feeds = [
     'https://daryldensford.com/feed/',
-    'https://blog.jacobdensford.com/feed.rss',
     'https://cobb.land/feed.xml',
     'https://blog.saisarida.com/feed.xml',
+    // 'https://jacobdensford.com/feed.xml',
 ];
 const authors = {
     "daryldensford.com": "Daryl",
-    "blog.jacobdensford.com": "Jacob",
-    "cobb.land": "Cobb",
+    "jacobdensford.com": "Jacob",
+    "cobb.land": "Jacob (as Cobb)",
     "blog.saisarida.com": "Sai",
 };
 
@@ -24,6 +24,20 @@ function extractDomain(url) {
         return "";
     }
 }
+
+function isWithinDaysFromToday(date, days) {
+    const today = new Date();
+    const dateInput = new Date(date);
+
+    // Normalize both dates to midnight to avoid time-of-day issues
+    today.setHours(0, 0, 0, 0);
+    dateInput.setHours(0, 0, 0, 0);
+
+    const diffInMs = dateInput - today;
+    const diffInDays = diffInMs / (1000 * 60 * 60 * 24);
+
+    return diffInDays <= 0 && diffInDays >= -Math.abs(days);
+    }
 
 async function fetchFeeds(feedsArray = feeds) {
     const allFeeds = await Promise.all(feedsArray.map(url => parser.parseURL(url)));
@@ -41,6 +55,7 @@ async function fetchFeeds(feedsArray = feeds) {
                 author: author,
                 link: item.link,
                 pubDate: new Date(item.pubDate || 0),
+                class: isWithinDaysFromToday(item.pubDate, 7) ? 'new-post' : 'old-post',
                 source: site.title,
                 sourceLink: site.link || site.items[0]?.link || "#",
                 content: item['content:encoded'] || item.content || item.summary || '',
@@ -90,7 +105,7 @@ async function updateHTML(htmlPath = page) {
     postsUpdated.empty();
     posts.forEach(post => {
         postsList.append(`
-            <li>
+            <li class="${post.class}">
                 <a href="${post.link}">${post.title}</a> by ${post.author}
             </li>
         `)
