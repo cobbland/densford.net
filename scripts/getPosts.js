@@ -39,9 +39,9 @@ function isWithinDaysFromToday(date, days) {
     const diffInDays = diffInMs / (1000 * 60 * 60 * 24);
 
     return diffInDays <= 0 && diffInDays >= -Math.abs(days);
-    }
+}
 
-async function fetchFeeds(feedsArray = feeds) {
+async function fetchFeeds(feedsArray = feeds, entryCount = 5) {
     const allFeeds = await Promise.all(feedsArray.map(url => parser.parseURL(url)));
     const allPosts = {};
     // for (let feed of feedsArray) {
@@ -49,7 +49,7 @@ async function fetchFeeds(feedsArray = feeds) {
     //     allFeeds.push(posts);
     // }
     for (let site of allFeeds) {
-        allPosts[site.title] = site.items.slice(0, 3).map((item) => {
+        allPosts[site.title] = site.items.slice(0, entryCount).map((item) => {
             const domain  = extractDomain(site.link || item.link);
             const author = authors[domain];
             return {
