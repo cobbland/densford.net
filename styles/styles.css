@@ -1,7 +1,7 @@
-body {
+/* body {
     margin: 1rem;
     max-width: 80ch;
-}
+} */
 
 .new-post::before {
     content: "🆕";

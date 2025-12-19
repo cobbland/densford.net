@@ -4,11 +4,71 @@
         <description><![CDATA[A combined feed of all the sites on the Densford network.]]></description>
         <link>https://densford.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 17 Dec 2025 20:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Dec 2025 19:04:03 GMT</lastBuildDate>
         <atom:link href="https://densford.net/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 17 Dec 2025 20:16:28 GMT</pubDate>
+        <pubDate>Fri, 19 Dec 2025 19:04:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Post]]></title>
+            <description><![CDATA[A post by Sai from oatmilk]]></description>
+            <link>https://blog.saisarida.com/2025/12/18/evergreen.html</link>
+            <guid isPermaLink="true">https://blog.saisarida.com/2025/12/18/evergreen.html</guid>
+            <dc:creator><![CDATA[Sai]]></dc:creator>
+            <pubDate>Thu, 18 Dec 2025 20:27:49 GMT</pubDate>
+            <content:encoded>&lt;p&gt;&lt;a href=&quot;https://challenges.micro.blog/&quot;&gt;Day 4: Evergreen&lt;/a&gt;. Woke up to beautiful morning light in our festive space, so I did my best to capture it. Loving our tree and mixed garland this year (and of course that fresh pine scent that fills the hallway).&lt;/p&gt;
+&lt;p&gt;#mbdec&lt;/p&gt;
+&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/rni-films-img-e46c3398-2b4f-4438-a371-b47c4b01408f.jpg&quot;&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Best of 2025]]></title>
+            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
+            <link>https://cobb.land/posts/best-of-2025/</link>
+            <guid isPermaLink="true">https://cobb.land/posts/best-of-2025/</guid>
+            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
+            <pubDate>Thu, 18 Dec 2025 08:36:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Looking back on twenty twenty-five as I was making this list, I kept thinking of things I wanted to put on it, only to realize they&apos;re from two thousand twenty-four. This past year has blown by without so much as a hi-how-are-you. But here we are: Some of my favorite things.&lt;/p&gt;
+&lt;p&gt;Please let me know everything I got wrong.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best album&lt;/strong&gt;: &lt;em&gt;&lt;a href=&quot;https://bonnieprincebilly.bandcamp.com/album/wolfroy-goes-to-town&quot;&gt;Wolfroy Goes to Town&lt;/a&gt;&lt;/em&gt; by Bonnie &amp;quot;Prince&amp;quot; Billy. I stopped using Spotify this year&lt;sup&gt;&lt;a href=&quot;https://cobb.land/posts/best-of-2025/#1down&quot; id=&quot;1up&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, and I have yet to settle on how I want to enjoy music going forward, so my listening has mostly been in the form of random CDs, and it&apos;s been mostly untracked. But if I had to guess which album I&apos;ve listened to the most, I&apos;d put money on this one. I enjoyed it fourteen years ago when it came out, and I enjoy it just as much now.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best book&lt;/strong&gt;: &lt;em&gt;&lt;a href=&quot;https://www.ursulakleguin.com/left-hand-darkness&quot;&gt;The Left Hand of Darkness&lt;/a&gt;&lt;/em&gt; by Ursula K Le Guin. I didn&apos;t read enough this year, and I certainly didn&apos;t read enough new stuff. But I did reread one of my favorites.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best game console&lt;/strong&gt;: &lt;a href=&quot;https://www.nintendo.com/en-gb/Hardware/Nintendo-3DS-Family/Nintendo-3DS-Family-94560.html&quot;&gt;Nintendo 3DS&lt;/a&gt;. Why didn&apos;t anyone tell me about this thing sooner? The 3DS came out during the decade and a half when I didn&apos;t play video games. I guess I missed out on some good stuff. Catching up now!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best Linux distro&lt;/strong&gt;: &lt;a href=&quot;https://bazzite.gg&quot;&gt;Bazzite&lt;/a&gt; from Universal Blue. Listen. I love Linux. I&apos;ve been using it as my main OS off and on since Hardy Heron. But I am still very much a Linux beginner. Bazzite has made things that used to be hard for me very easy—namely playing games.&lt;sup&gt;&lt;a href=&quot;https://cobb.land/posts/best-of-2025/#2down&quot; id=&quot;2up&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best meal&lt;/strong&gt;: Pla Lad Prik (ปลาราดพริก) from &lt;a href=&quot;https://momsiamrva.com&quot;&gt;Mom&apos;s Siam&lt;/a&gt; in Richmond, VA. You just cannot beat a crispy, spicy, tasty, whole fish. (Could have been spicier, though.)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best movie&lt;/strong&gt;: &lt;em&gt;&lt;a href=&quot;https://www.themoviedb.org/movie/803796-kpop-demon-hunters&quot;&gt;KPop Demon Hunters&lt;/a&gt;&lt;/em&gt;. Much like books, I didn&apos;t watch many movies this year. But this one definitely stands out in my memory. I was surprised by how good it was. And those songs are so catchy!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best piece of furniture&lt;/strong&gt;: &lt;a href=&quot;https://www.ikea.com/us/en/p/ivar-2-section-shelving-unit-pine-s89407058/&quot;&gt;IVAR&lt;/a&gt; from IKEA. Got the massive two-section unit that nearly goes up to the ceiling. Completely changed the functionality of our studio. Seriously.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best retro handheld&lt;/strong&gt;: &lt;a href=&quot;https://retrocatalog.com/retro-handhelds/miyoo-mini-plus&quot;&gt;Miyoo Mini Plus&lt;/a&gt;. My first one was defective. My second one still feels janky. And yet, I really enjoy this little guy. Took it with me almost everywhere this year. I even played it some, too.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best show&lt;/strong&gt;: &lt;em&gt;&lt;a href=&quot;https://www.themoviedb.org/tv/83867-andor&quot;&gt;Star Wars: Andor&lt;/a&gt;&lt;/em&gt; (season 2). Nothing beats the original trilogy. After that, nothing beats the prequel trilogy (I was eleven when it came out—leave me alone). After that, and arguably &amp;quot;better&amp;quot; than some of both, is Andor. This show did things I hadn&apos;t realized were possible with Star Wars. And it has stayed with me.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best tabletop roleplaying game&lt;/strong&gt;: &lt;a href=&quot;https://necroticgnome.com/collections/dolmenwood&quot;&gt;Dolmenwood&lt;/a&gt; from Necrotic Gnome. Surprising absolutely no one. I&apos;ve only run one session so far, but I can see this being one of my forever games.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best video game&lt;/strong&gt;: &lt;em&gt;&lt;a href=&quot;https://www.hollowknight.com&quot;&gt;Hollow Knight&lt;/a&gt;&lt;/em&gt; from Team Cherry. I know I&apos;m way late to the party on this one. But better late than never. This quickly became one of my favorites of all time.&lt;sup&gt;&lt;a href=&quot;https://cobb.land/posts/best-of-2025/#3down&quot; id=&quot;3up&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Best website&lt;/strong&gt;: &lt;a href=&quot;https://cobb.land&quot;&gt;cobb.land&lt;/a&gt;. I mean, just look at this place! How cool, right?&lt;/p&gt;
+&lt;p class=&quot;note footnote&quot;&gt;&lt;a href=&quot;https://cobb.land/posts/best-of-2025/#1up&quot; id=&quot;1down&quot;&gt;1&lt;/a&gt;: There was a great article about how to quit Spotify posted by Brian Merchant of Blood in the Machine last month, but I&apos;m not going to link to Substack. Here is &lt;a href=&quot;https://web.archive.org/web/20251218021237/https://www.bloodinthemachine.com/p/a-complete-guide-to-quitting-spotify&quot;&gt;a Wayback Machine capture&lt;/a&gt; instead.&lt;/p&gt;
+&lt;p class=&quot;note footnote&quot;&gt;&lt;a href=&quot;https://cobb.land/posts/best-of-2025/#2up&quot; id=&quot;2down&quot;&gt;2&lt;/a&gt;: Relatedly, &lt;a href=&quot;https://kde.org/plasma-desktop/&quot;&gt;KDA Plasma&lt;/a&gt; is my new favorite desktop environment. Wow. Just wow.&lt;/p&gt;
+&lt;p class=&quot;note footnote triple-dagger&quot;&gt;&lt;img src=&quot;https://cobb.land/images/triple-dagger.png&quot; alt=&quot;Triple Dagger&quot; class=&quot;dagger&quot; height=&quot;13px&quot; width=&quot;6px&quot; style=&quot;display:inline;&quot;&gt;: &lt;a href=&quot;https://cobb.land/triple-dagger&quot;&gt;Proposal to add Medievalist punctuation characters to the UCS&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;note footnote&quot;&gt;&lt;a href=&quot;https://cobb.land/posts/best-of-2025/#3up&quot; id=&quot;3down&quot;&gt;3&lt;/a&gt;: Honorable mention and close second place goes to The Legend of Zelda: A Link to the Past—even later on that one.&lt;/p&gt;</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Bookmark of Open Blog Revolution Release]]></title>
+            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
+            <link>https://cobb.land/posts/bookmarks/open-blog-revolution-release/</link>
+            <guid isPermaLink="true">https://cobb.land/posts/bookmarks/open-blog-revolution-release/</guid>
+            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
+            <pubDate>Thu, 18 Dec 2025 00:00:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Eko has done some good work here. If I hadn&apos;t already hacked together my own setup using Eleventy, I&apos;d probably give it a try. Regardless, looks like a great option for new folks. Blogs, baby!&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Post]]></title>
+            <description><![CDATA[A post by Sai from oatmilk]]></description>
+            <link>https://blog.saisarida.com/2025/12/17/thought-itd-be-fun-to.html</link>
+            <guid isPermaLink="true">https://blog.saisarida.com/2025/12/17/thought-itd-be-fun-to.html</guid>
+            <dc:creator><![CDATA[Sai]]></dc:creator>
+            <pubDate>Wed, 17 Dec 2025 23:38:33 GMT</pubDate>
+            <content:encoded>&lt;p&gt;Thought it&amp;rsquo;d be fun to join the December photo challenge—the prompts are so fun! Here is &lt;a href=&quot;https://challenges.micro.blog/2025/12/17/days-of-winter-wonder-photo.html&quot;&gt;day 3: firelight&lt;/a&gt;. Today&amp;rsquo;s prompt reminded me that I should light candles more often, especially in the colder months.&lt;/p&gt;
+&lt;p&gt;#mbdec&lt;/p&gt;
+&lt;img src=&quot;https://blog.saisarida.com/uploads/2025/dec17-challnege-day3-firelight-.jpg&quot;&gt;
+</content:encoded>
+        </item>
         <item>
             <title><![CDATA[Moving (Digital) House]]></title>
             <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
@@ -20,6 +80,16 @@
 </content:encoded>
         </item>
         <item>
+            <title><![CDATA[Mario Kart 7]]></title>
+            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
+            <link>https://cobb.land/media/shelved/mario-kart-7/</link>
+            <guid isPermaLink="true">https://cobb.land/media/shelved/mario-kart-7/</guid>
+            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
+            <pubDate>Sun, 14 Dec 2025 17:13:00 GMT</pubDate>
+            <content:encoded>&lt;p&gt;The 3D on the 3DS was really cool. I got every gold trophy on every difficulty, but couldn&apos;t quite manage three gold starts on all the 150cc and mirror cups. Still, solid Mario Kart game.&lt;/p&gt;
+</content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Bookmark of Mari Lwyd’s Pantri Panic Launched]]></title>
             <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
             <link>https://cobb.land/posts/bookmarks/mari-lwyds-pantri-panic-launched/</link>
@@ -27,39 +97,6 @@
             <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
             <pubDate>Wed, 10 Dec 2025 22:05:00 GMT</pubDate>
             <content:encoded>&lt;p&gt;You know I had to load &lt;a href=&quot;https://rhyswynne.itch.io/mari-lwyds-pantri-panic&quot;&gt;this puppy&lt;/a&gt; up on my Miyoo Mini Plus for some festive holiday fun! (So what if my high score is currently only nine hundred something—I&apos;m still getting the hang of it.)&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Bookmark of Discovering the indieweb with calm tech]]></title>
-            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
-            <link>https://cobb.land/posts/bookmarks/discovering-the-indieweb-with-calm-tech/</link>
-            <guid isPermaLink="true">https://cobb.land/posts/bookmarks/discovering-the-indieweb-with-calm-tech/</guid>
-            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
-            <pubDate>Wed, 10 Dec 2025 19:45:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;Robert shares two great tools here (in addition to his beautiful vision of the internet): &lt;a href=&quot;https://github.com/robalexdev/blog-quest&quot;&gt;Blog Quest&lt;/a&gt; (for finding RSS feeds as you browse the web) and &lt;a href=&quot;https://streetpass.social&quot;&gt;StreetPass&lt;/a&gt; (the same but for finding Mastodon profiles). I&apos;ve already installed them both.&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Let It Snow]]></title>
-            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
-            <link>https://cobb.land/posts/let-it-snow/</link>
-            <guid isPermaLink="true">https://cobb.land/posts/let-it-snow/</guid>
-            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 17:30:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;With a winter weather advisory in effect here in the foodhills of Appalachia, I&apos;m feeling pretty festive. So, inspired by &lt;a href=&quot;https://blog.gridranger.dev/snowfall/&quot;&gt;Dávid&apos;s Snowfall post&lt;/a&gt; (and using most of &lt;a href=&quot;https://framagit.org/gridranger/gridranger.frama.io/-/snippets/7593&quot;&gt;his code&lt;/a&gt;), I added falling snow to this website.&lt;/p&gt;
-</content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Super Star Wars: Return of the Jedi]]></title>
-            <description><![CDATA[A post by Jacob (as Cobb) from cobb.land]]></description>
-            <link>https://cobb.land/media/shelved/super-return-of-the-jedi/</link>
-            <guid isPermaLink="true">https://cobb.land/media/shelved/super-return-of-the-jedi/</guid>
-            <dc:creator><![CDATA[Jacob (as Cobb)]]></dc:creator>
-            <pubDate>Sun, 16 Nov 2025 01:00:00 GMT</pubDate>
-            <content:encoded>&lt;p&gt;It could be argued that Return of the Jedi is the weakest of the original Star Wars trilogy. The same could be said for the Super Star Wars trilogy of Super Nintendo games. And yet, just like when I was a kid, I enjoyed the last one the most. Though it wasn&apos;t because it was the best game of the trilogy—it was just the easiest.&lt;/p&gt;
-&lt;p&gt;Listen, I like platformers, but I don&apos;t think I like run and gun games. So, despite almost all of the reviewers online listing each game in this trilogy among the best Super Nintendo games of all time, they&apos;re just not for me.&lt;/p&gt;
-&lt;p&gt;I still enjoyed playing through them, though. The music and sound effects tickled my brain in a pleasantly nostalgic way. The pixelated renditions of scenes from the movies where expertly done. And this game the most among the trilogy was technically impressive—Escaping aboard the Millennium Falcon through the guts of the second Death Star as it exploded all around me was truly exhilarating.&lt;/p&gt;
-&lt;p&gt;Did I love every minute? No. Do I think they&apos;re great games? Yeah, probably. Just not for me. &lt;strong&gt;I recommend it with reservations.&lt;/strong&gt;&lt;/p&gt;
 </content:encoded>
         </item>
         <item>
